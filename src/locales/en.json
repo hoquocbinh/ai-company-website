@@ -1,0 +1,527 @@
+{
+    "header": {
+        "home": "Home",
+        "about": "About Us",
+        "services": "Services",
+        "solutions": "Solutions",
+        "portfolio": "Portfolio",
+        "resources": "Resources",
+        "careers": "Careers",
+        "contact": "Contact",
+        "getStarted": "Get Started"
+    },
+    "hero": {
+        "title": "Transform Your Business with AI Innovation",
+        "subtitle": "We build cutting-edge AI solutions that drive growth, efficiency, and competitive advantage for forward-thinking companies.",
+        "cta": "Start Your AI Journey",
+        "ctaSecondary": "Explore Our Work"
+    },
+    "home": {
+        "stats": {
+            "projects": {
+                "label": "Projects Delivered",
+                "value": "150+"
+            },
+            "clients": {
+                "label": "Happy Clients",
+                "value": "80+"
+            },
+            "awards": {
+                "label": "Industry Awards",
+                "value": "25+"
+            },
+            "satisfaction": {
+                "label": "Client Satisfaction",
+                "value": "95%"
+            }
+        },
+        "aboutPreview": {
+            "title": "Leading the <1>AI Revolution</1>",
+            "desc1": "With over a decade of experience in artificial intelligence and machine learning, we've helped businesses across industries harness the power of AI to solve complex challenges and unlock new opportunities.",
+            "desc2": "Our team of expert data scientists, ML engineers, and AI specialists are passionate about creating innovative solutions that deliver measurable results.",
+            "btn": "Learn More About Us"
+        },
+        "services": {
+            "title": "Our <1>AI Services</1>",
+            "subtitle": "Comprehensive AI solutions tailored to your business needs",
+            "btn": "View All Services"
+        },
+        "whyChoose": {
+            "title": "Why Choose <1>AITechVision</1>",
+            "subtitle": "We deliver excellence through innovation, expertise, and dedication",
+            "features": {
+                "1": {
+                    "title": "Expert Team",
+                    "desc": "Our team consists of PhDs, researchers, and industry veterans with deep expertise in AI, ML, and data science."
+                },
+                "2": {
+                    "title": "Proven Track Record",
+                    "desc": "150+ successful projects across healthcare, finance, retail, and manufacturing industries worldwide."
+                },
+                "3": {
+                    "title": "Cutting-Edge Technology",
+                    "desc": "We leverage the latest AI frameworks and technologies to build scalable, production-ready solutions."
+                },
+                "4": {
+                    "title": "Custom Solutions",
+                    "desc": "Every project is unique. We design and develop AI solutions tailored to your specific business requirements."
+                },
+                "5": {
+                    "title": "End-to-End Support",
+                    "desc": "From strategy and development to deployment and maintenance, we're with you every step of the way."
+                },
+                "6": {
+                    "title": "Measurable Results",
+                    "desc": "We focus on delivering tangible business value with clear ROI and performance metrics."
+                }
+            }
+        },
+        "cta": {
+            "title": "Ready to Transform Your Business with AI?",
+            "desc": "Let's discuss how our AI solutions can help you achieve your business goals.",
+            "btn": "Get Started Today"
+        }
+    },
+    "about": {
+        "heroTitle": "About AITechVision",
+        "heroSubtitle": "Pioneering AI solutions that transform businesses and shape the future of technology",
+        "joinTeam": "Join Our Team",
+        "ourWork": "Our Work",
+        "ourStory": "Our Story",
+        "storyText1": "Founded in 2014, AITechVision emerged from a simple belief: artificial intelligence should be accessible, practical, and transformative for businesses of all sizes.",
+        "storyText2": "What started as a small team of passionate AI researchers has grown into a leading AI solutions provider, serving clients across healthcare, finance, retail, and manufacturing industries worldwide.",
+        "storyText3": "Today, we're proud to have delivered over 150 successful AI projects, helping businesses unlock new opportunities and solve complex challenges with cutting-edge technology.",
+        "mission": "Our Mission",
+        "missionDesc": "To empower businesses with intelligent AI solutions that drive innovation, efficiency, and sustainable growth in an increasingly digital world.",
+        "vision": "Our Vision",
+        "visionDesc": "To be the world's most trusted AI partner, recognized for delivering transformative solutions that create lasting value for our clients and society.",
+        "values": "Our Values",
+        "valuesDesc": "Innovation, integrity, excellence, and collaboration guide everything we do. We're committed to ethical AI development and client success.",
+        "meetTeam": "Meet Our Expert Team",
+        "teamDesc": "World-class AI professionals dedicated to your success",
+        "achievements": "Our Achievements"
+    },
+    "services": {
+        "heroTitle": "AI Services & Solutions",
+        "heroSubtitle": "Comprehensive AI and machine learning services to transform your business operations and drive innovation",
+        "getQuote": "Get a Quote",
+        "viewPortfolio": "View Portfolio",
+        "coreServices": "Our Core Services",
+        "coreServicesDesc": "End-to-end AI solutions designed to solve your unique business challenges",
+        "process": "Our Development Process",
+        "processDesc": "A proven methodology for delivering successful AI projects",
+        "technologies": "Technologies We Master"
+    },
+    "solutions": {
+        "heroTitle": "Industry Solutions",
+        "heroSubtitle": "Tailored AI solutions designed for your industry's unique challenges and opportunities",
+        "discussNeeds": "Discuss Your Needs",
+        "viewCaseStudies": "View Case Studies",
+        "industrySolutions": "AI Solutions by Industry",
+        "industrySolutionsDesc": "Specialized AI solutions that address industry-specific challenges",
+        "whyChoose": "Why Choose Our Industry Solutions",
+        "benefits": {
+            "domain": {
+                "title": "Domain Expertise",
+                "desc": "Deep understanding of industry-specific challenges and regulations"
+            },
+            "results": {
+                "title": "Proven Results",
+                "desc": "Track record of successful implementations across industries"
+            },
+            "scalable": {
+                "title": "Scalable Solutions",
+                "desc": "Built to grow with your business and adapt to changing needs"
+            },
+            "compliance": {
+                "title": "Compliance Ready",
+                "desc": "Solutions designed with industry regulations and compliance in mind"
+            }
+        }
+    },
+    "portfolio": {
+        "heroTitle": "Our Success Stories",
+        "heroSubtitle": "Explore our portfolio of successful AI projects that have transformed businesses across industries",
+        "startProject": "Start Your Project",
+        "ourServices": "Our Services",
+        "noProjects": "No projects found in this category."
+    },
+    "careers": {
+        "heroTitle": "Join Our Team",
+        "heroSubtitle": "Help us shape the future of AI and work on cutting-edge projects that make a real impact",
+        "viewPositions": "View Open Positions",
+        "ourCulture": "Our Culture",
+        "cultureTitle": "Our Culture",
+        "cultureText1": "At AITechVision, we believe in fostering a culture of innovation, collaboration, and continuous learning. We're passionate about pushing the boundaries of what's possible with AI.",
+        "cultureText2": "Join a team where your ideas matter, your growth is supported, and your work makes a meaningful impact on businesses and society.",
+        "whyWork": "Why Work With Us",
+        "openPositions": "Open Positions",
+        "openPositionsDesc": "Join our team and help build the future of AI",
+        "applyNow": "Apply Now"
+    },
+    "contact": {
+        "heroTitle": "Get In Touch",
+        "heroSubtitle": "Let's discuss how we can help transform your business with AI solutions",
+        "callUs": "Call Us Now",
+        "ourLocations": "Our Locations",
+        "conversation": "Let's Start a Conversation",
+        "conversationDesc": "Whether you're looking to build a new AI solution or optimize existing systems, our team is here to help. Fill out the form and we'll get back to you within 24 hours.",
+        "officeLocation": "Office Location",
+        "phoneNumber": "Phone Number",
+        "emailAddress": "Email Address",
+        "businessHours": "Business Hours",
+        "globalOffices": "Our Global Offices",
+        "globalOfficesDesc": "We have offices in major tech hubs around the world"
+    },
+    "footer": {
+        "desc": "Leading AI solutions provider, transforming businesses with cutting-edge artificial intelligence and machine learning technologies.",
+        "quickLinks": "Quick Links",
+        "services": "Services",
+        "resources": "Resources",
+        "contact": "Contact",
+        "privacy": "Privacy Policy",
+        "terms": "Terms of Service",
+        "rights": "© {{year}} AITechVision. All rights reserved.",
+        "blog": "Blog",
+        "caseStudies": "Case Studies",
+        "address": "123 AI Street, Tech City",
+        "phone": "+1 (555) 123-4567",
+        "email": "info@aitechvision.com"
+    },
+    "resources": {
+        "heroTitle": "Resources & Insights",
+        "heroSubtitle": "Stay updated with the latest trends, insights, and best practices in AI and machine learning",
+        "subscribe": "Subscribe to Newsletter",
+        "viewAll": "View All Posts",
+        "latestArticles": "Latest Articles",
+        "latestArticlesDesc": "Expert insights and thought leadership from our AI team",
+        "readMore": "Read More →",
+        "stayUpdated": "Stay Updated with AI Insights",
+        "newsletterDesc": "Subscribe to our newsletter and get the latest AI trends, case studies, and expert tips delivered to your inbox.",
+        "emailPlaceholder": "Enter your email address",
+        "subscribeBtn": "Subscribe"
+    },
+    "data": {
+        "services": {
+            "1": {
+                "title": "AI/ML Development",
+                "desc": "Custom artificial intelligence and machine learning solutions tailored to your business needs. We build intelligent systems that learn and adapt.",
+                "features": [
+                    "Deep Learning",
+                    "Neural Networks",
+                    "Model Training",
+                    "AI Integration"
+                ]
+            },
+            "2": {
+                "title": "Natural Language Processing",
+                "desc": "Advanced NLP solutions for text analysis, sentiment analysis, chatbots, and language understanding to enhance customer interactions.",
+                "features": [
+                    "Text Analysis",
+                    "Chatbots",
+                    "Sentiment Analysis",
+                    "Language Models"
+                ]
+            },
+            "3": {
+                "title": "Computer Vision",
+                "desc": "Cutting-edge computer vision systems for image recognition, object detection, facial recognition, and visual data analysis.",
+                "features": [
+                    "Image Recognition",
+                    "Object Detection",
+                    "Facial Recognition",
+                    "Video Analysis"
+                ]
+            },
+            "4": {
+                "title": "Data Analytics & BI",
+                "desc": "Transform your data into actionable insights with our advanced analytics and business intelligence solutions powered by AI.",
+                "features": [
+                    "Predictive Analytics",
+                    "Data Visualization",
+                    "Real-time Insights",
+                    "Custom Dashboards"
+                ]
+            },
+            "5": {
+                "title": "AI Consulting",
+                "desc": "Strategic AI consulting to help you identify opportunities, develop roadmaps, and implement AI solutions that drive business value.",
+                "features": [
+                    "Strategy Development",
+                    "ROI Analysis",
+                    "Implementation Planning",
+                    "Best Practices"
+                ]
+            },
+            "6": {
+                "title": "Custom AI Solutions",
+                "desc": "End-to-end custom AI solutions designed specifically for your unique business challenges and industry requirements.",
+                "features": [
+                    "Custom Development",
+                    "Integration Services",
+                    "Scalable Architecture",
+                    "Ongoing Support"
+                ]
+            },
+            "7": {
+                "title": "Chatbot Development",
+                "desc": "Intelligent conversational AI and chatbots that provide 24/7 customer support and enhance user engagement.",
+                "features": [
+                    "Multi-channel Support",
+                    "Natural Conversations",
+                    "Integration Ready",
+                    "Analytics Dashboard"
+                ]
+            },
+            "8": {
+                "title": "Predictive Analytics",
+                "desc": "Leverage machine learning to forecast trends, predict outcomes, and make data-driven decisions with confidence.",
+                "features": [
+                    "Forecasting Models",
+                    "Risk Assessment",
+                    "Trend Analysis",
+                    "Decision Support"
+                ]
+            }
+        },
+        "solutions": {
+            "1": {
+                "title": "Healthcare AI",
+                "desc": "Advanced AI solutions for medical diagnosis, patient care, drug discovery, and healthcare operations optimization.",
+                "features": [
+                    "Medical Image Analysis",
+                    "Predictive Diagnostics",
+                    "Patient Monitoring",
+                    "Drug Discovery AI"
+                ]
+            },
+            "2": {
+                "title": "Financial Services AI",
+                "desc": "Intelligent systems for fraud detection, risk assessment, algorithmic trading, and customer service automation.",
+                "features": [
+                    "Fraud Detection",
+                    "Risk Analysis",
+                    "Trading Algorithms",
+                    "Credit Scoring"
+                ]
+            },
+            "3": {
+                "title": "Retail & E-commerce AI",
+                "desc": "Personalization engines, demand forecasting, inventory optimization, and customer behavior analytics.",
+                "features": [
+                    "Recommendation Systems",
+                    "Demand Forecasting",
+                    "Price Optimization",
+                    "Customer Analytics"
+                ]
+            },
+            "4": {
+                "title": "Manufacturing AI",
+                "desc": "Smart manufacturing solutions including quality control, predictive maintenance, and production optimization.",
+                "features": [
+                    "Quality Assurance",
+                    "Predictive Maintenance",
+                    "Process Optimization",
+                    "Supply Chain AI"
+                ]
+            },
+            "5": {
+                "title": "Education Technology",
+                "desc": "Adaptive learning platforms, student performance prediction, and personalized education experiences.",
+                "features": [
+                    "Adaptive Learning",
+                    "Performance Analytics",
+                    "Content Recommendation",
+                    "Automated Grading"
+                ]
+            },
+            "6": {
+                "title": "Smart Cities & IoT",
+                "desc": "AI-powered solutions for traffic management, energy optimization, and urban planning.",
+                "features": [
+                    "Traffic Optimization",
+                    "Energy Management",
+                    "Waste Management",
+                    "Public Safety"
+                ]
+            }
+        },
+        "about": {
+            "achievements": {
+                "1": {
+                    "title": "Best AI Company 2023",
+                    "org": "Tech Innovation Awards"
+                },
+                "2": {
+                    "title": "Top 10 AI Startups",
+                    "org": "Forbes Technology"
+                },
+                "3": {
+                    "title": "Excellence in ML",
+                    "org": "AI Summit 2023"
+                },
+                "4": {
+                    "title": "Innovation Leader",
+                    "org": "Global Tech Awards"
+                }
+            }
+        },
+        "team": {
+            "1": {
+                "pos": "Chief AI Officer",
+                "bio": "15+ years in AI research and development. PhD in Machine Learning from MIT."
+            },
+            "2": {
+                "pos": "Lead ML Engineer",
+                "bio": "Expert in deep learning and neural networks. Former Google AI researcher."
+            },
+            "3": {
+                "pos": "NLP Specialist",
+                "bio": "Specializes in natural language processing and conversational AI systems."
+            },
+            "4": {
+                "pos": "Computer Vision Lead",
+                "bio": "Pioneer in computer vision and image recognition technologies."
+            },
+            "5": {
+                "pos": "Data Science Director",
+                "bio": "Transforms complex data into actionable business insights using AI."
+            },
+            "6": {
+                "pos": "AI Solutions Architect",
+                "bio": "Designs scalable AI architectures for enterprise-level applications."
+            }
+        },
+        "portfolio": {
+            "categories": {
+                "All": "All",
+                "Healthcare": "Healthcare",
+                "Finance": "Finance",
+                "Retail": "Retail",
+                "Manufacturing": "Manufacturing",
+                "Education": "Education",
+                "Customer Service": "Customer Service"
+            },
+            "1": {
+                "title": "Healthcare Diagnosis AI",
+                "desc": "AI-powered diagnostic system that assists doctors in identifying diseases with 95% accuracy.",
+                "results": "95% accuracy, 40% faster diagnosis"
+            },
+            "2": {
+                "title": "Financial Fraud Detection",
+                "desc": "Machine learning system that detects fraudulent transactions in real-time.",
+                "results": "99.7% fraud detection rate, $2M saved annually"
+            },
+            "3": {
+                "title": "Retail Recommendation Engine",
+                "desc": "Personalized product recommendation system that increased sales by 35%.",
+                "results": "35% increase in sales, 50% higher engagement"
+            },
+            "4": {
+                "title": "Smart Manufacturing QA",
+                "desc": "Computer vision system for automated quality assurance in manufacturing.",
+                "results": "99.5% defect detection, 60% cost reduction"
+            },
+            "5": {
+                "title": "Education Personalization Platform",
+                "desc": "AI-driven learning platform that adapts to individual student needs.",
+                "results": "45% improvement in learning outcomes"
+            },
+            "6": {
+                "title": "Customer Service Chatbot",
+                "desc": "Intelligent chatbot handling 10,000+ customer queries daily.",
+                "results": "80% query resolution, 24/7 availability"
+            }
+        },
+        "careers": {
+            "positions": {
+                "1": {
+                    "title": "Senior Machine Learning Engineer",
+                    "dept": "Engineering",
+                    "loc": "San Francisco, CA",
+                    "type": "Full-time"
+                },
+                "2": {
+                    "title": "AI Research Scientist",
+                    "dept": "Research",
+                    "loc": "New York, NY",
+                    "type": "Full-time"
+                },
+                "3": {
+                    "title": "Data Scientist",
+                    "dept": "Data Science",
+                    "loc": "Remote",
+                    "type": "Full-time"
+                },
+                "4": {
+                    "title": "NLP Engineer",
+                    "dept": "Engineering",
+                    "loc": "Boston, MA",
+                    "type": "Full-time"
+                },
+                "5": {
+                    "title": "Computer Vision Engineer",
+                    "dept": "Engineering",
+                    "loc": "Seattle, WA",
+                    "type": "Full-time"
+                },
+                "6": {
+                    "title": "AI Product Manager",
+                    "dept": "Product",
+                    "loc": "San Francisco, CA",
+                    "type": "Full-time"
+                }
+            },
+            "benefits": {
+                "1": {
+                    "title": "Competitive Salary",
+                    "desc": "Industry-leading compensation packages with equity options"
+                },
+                "2": {
+                    "title": "Great Team",
+                    "desc": "Work with world-class AI researchers and engineers"
+                },
+                "3": {
+                    "title": "Health & Wellness",
+                    "desc": "Comprehensive health insurance and wellness programs"
+                },
+                "4": {
+                    "title": "Flexible Work",
+                    "desc": "Remote-friendly with flexible working hours"
+                }
+            }
+        },
+        "blog": {
+            "1": {
+                "title": "The Future of AI in Healthcare",
+                "excerpt": "Exploring how artificial intelligence is revolutionizing medical diagnosis and patient care...",
+                "category": "Healthcare"
+            },
+            "2": {
+                "title": "Machine Learning Best Practices",
+                "excerpt": "Essential guidelines for building robust and scalable machine learning systems...",
+                "category": "Technology"
+            },
+            "3": {
+                "title": "AI Ethics and Responsible Development",
+                "excerpt": "Understanding the importance of ethical considerations in AI development...",
+                "category": "Ethics"
+            },
+            "4": {
+                "title": "Natural Language Processing Trends",
+                "excerpt": "Latest advancements in NLP and their practical applications in business...",
+                "category": "NLP"
+            },
+            "5": {
+                "title": "Computer Vision in Manufacturing",
+                "excerpt": "How computer vision is transforming quality control and production efficiency...",
+                "category": "Manufacturing"
+            },
+            "6": {
+                "title": "AI-Powered Customer Service",
+                "excerpt": "Building intelligent chatbots that enhance customer experience and satisfaction...",
+                "category": "Customer Service"
+            }
+        }
+    }
+}

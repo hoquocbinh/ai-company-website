@@ -1,0 +1,67 @@
+.services-page {
+    padding-top: 80px;
+}
+
+.process-step {
+    text-align: center;
+    padding: 2rem;
+    background: var(--white);
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-md);
+    transition: var(--transition-base);
+    height: 100%;
+}
+
+.process-step:hover {
+    transform: translateY(-8px);
+    box-shadow: var(--shadow-xl);
+}
+
+.process-number {
+    font-size: 3.5rem;
+    font-weight: 900;
+    background: var(--gradient-red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin-bottom: 1rem;
+    line-height: 1;
+}
+
+.process-title {
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    color: var(--dark-gray);
+}
+
+.process-description {
+    color: var(--medium-gray);
+    line-height: 1.7;
+    margin: 0;
+}
+
+.tech-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+}
+
+.tech-badge {
+    background: var(--white);
+    padding: 1rem 2rem;
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-md);
+    font-weight: 600;
+    color: var(--dark-gray);
+    transition: var(--transition-base);
+    border: 2px solid transparent;
+}
+
+.tech-badge:hover {
+    border-color: var(--primary-red);
+    color: var(--primary-red);
+    transform: translateY(-5px);
+    box-shadow: var(--shadow-lg);
+}

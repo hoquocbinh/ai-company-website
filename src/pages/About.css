@@ -1,0 +1,108 @@
+.about-page {
+    padding-top: 80px;
+}
+
+.mvv-card {
+    background: var(--white);
+    padding: 2.5rem;
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-md);
+    transition: var(--transition-base);
+    height: 100%;
+    text-align: center;
+}
+
+.mvv-card:hover {
+    transform: translateY(-8px);
+    box-shadow: var(--shadow-xl);
+}
+
+.mvv-icon {
+    width: 80px;
+    height: 80px;
+    background: var(--gradient-red);
+    border-radius: var(--radius-lg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 1.5rem;
+    font-size: 2.5rem;
+    color: var(--white);
+    box-shadow: var(--shadow-red);
+}
+
+.mvv-title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    color: var(--dark-gray);
+}
+
+.mvv-description {
+    color: var(--medium-gray);
+    line-height: 1.7;
+    margin: 0;
+}
+
+.achievement-card {
+    background: var(--white);
+    padding: 2rem;
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-md);
+    text-align: center;
+    transition: var(--transition-base);
+    border: 2px solid transparent;
+    height: 100%;
+}
+
+.achievement-card:hover {
+    border-color: var(--primary-red);
+    transform: scale(1.05);
+    box-shadow: var(--shadow-xl);
+}
+
+.achievement-title {
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: var(--dark-gray);
+    margin-bottom: 0.5rem;
+}
+
+.achievement-org {
+    color: var(--primary-red);
+    font-weight: 600;
+    margin: 0;
+}
+
+/* Team Carousel Styles */
+.team-carousel {
+    position: relative;
+    padding: 0 2rem 3rem;
+}
+
+.team-swiper {
+    padding-bottom: 3rem;
+}
+
+.team-swiper .swiper-pagination {
+    bottom: 0;
+}
+
+.team-swiper .swiper-pagination-bullet {
+    background: var(--primary-red);
+    opacity: 0.5;
+    width: 10px;
+    height: 10px;
+}
+
+.team-swiper .swiper-pagination-bullet-active {
+    opacity: 1;
+    width: 30px;
+    border-radius: 5px;
+}
+
+@media (max-width: 640px) {
+    .team-carousel {
+        padding: 0 0 3rem;
+    }
+}

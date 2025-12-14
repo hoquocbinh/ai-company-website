@@ -1,0 +1,527 @@
+{
+    "header": {
+        "home": "Trang chủ",
+        "about": "Về chúng tôi",
+        "services": "Dịch vụ",
+        "solutions": "Giải pháp",
+        "portfolio": "Dự án",
+        "resources": "Tài nguyên",
+        "careers": "Tuyển dụng",
+        "contact": "Liên hệ",
+        "getStarted": "Bắt đầu ngay"
+    },
+    "hero": {
+        "title": "Chuyển đổi Doanh nghiệp với đổi mới AI",
+        "subtitle": "Chúng tôi xây dựng các giải pháp AI tiên tiến thúc đẩy tăng trưởng, hiệu quả và lợi thế cạnh tranh cho các công ty có tầm nhìn xa.",
+        "cta": "Bắt đầu hành trình AI",
+        "ctaSecondary": "Khám phá dự án"
+    },
+    "home": {
+        "stats": {
+            "projects": {
+                "label": "Dự án hoàn thành",
+                "value": "150+"
+            },
+            "clients": {
+                "label": "Khách hàng hài lòng",
+                "value": "80+"
+            },
+            "awards": {
+                "label": "Giải thưởng ngành",
+                "value": "25+"
+            },
+            "satisfaction": {
+                "label": "Sự hài lòng",
+                "value": "95%"
+            }
+        },
+        "aboutPreview": {
+            "title": "Dẫn đầu <1>Cuộc cách mạng AI</1>",
+            "desc1": "Với hơn một thập kỷ kinh nghiệm trong trí tuệ nhân tạo và máy học, chúng tôi đã giúp các doanh nghiệp trong nhiều ngành khai thác sức mạnh của AI để giải quyết các thách thức phức tạp và mở ra các cơ hội mới.",
+            "desc2": "Đội ngũ chuyên gia khoa học dữ liệu, kỹ sư ML và chuyên gia AI của chúng tôi đam mê tạo ra các giải pháp sáng tạo mang lại kết quả đo lường được.",
+            "btn": "Tìm hiểu thêm"
+        },
+        "services": {
+            "title": "Dịch vụ <1>AI của chúng tôi</1>",
+            "subtitle": "Các giải pháp AI toàn diện phù hợp với nhu cầu doanh nghiệp của bạn",
+            "btn": "Xem tất cả dịch vụ"
+        },
+        "whyChoose": {
+            "title": "Tại sao chọn <1>AITechVision</1>",
+            "subtitle": "Chúng tôi mang đến sự xuất sắc thông qua sự đổi mới, chuyên môn và sự tận tâm",
+            "features": {
+                "1": {
+                    "title": "Đội ngũ chuyên gia",
+                    "desc": "Đội ngũ của chúng tôi bao gồm các Tiến sĩ, nhà nghiên cứu và chuyên gia trong ngành có chuyên môn sâu về AI, ML và khoa học dữ liệu."
+                },
+                "2": {
+                    "title": "Thành tích đã được kiểm chứng",
+                    "desc": "Hơn 150 dự án thành công trong các ngành y tế, tài chính, bán lẻ và sản xuất trên toàn thế giới."
+                },
+                "3": {
+                    "title": "Công nghệ tiên tiến",
+                    "desc": "Chúng tôi tận dụng các khuôn khổ và công nghệ AI mới nhất để xây dựng các giải pháp có thể mở rộng và sẵn sàng cho sản xuất."
+                },
+                "4": {
+                    "title": "Giải pháp tùy chỉnh",
+                    "desc": "Mỗi dự án là duy nhất. Chúng tôi thiết kế và phát triển các giải pháp AI phù hợp với yêu cầu kinh doanh cụ thể của bạn."
+                },
+                "5": {
+                    "title": "Hỗ trợ toàn diện",
+                    "desc": "Từ chiến lược và phát triển đến triển khai và bảo trì, chúng tôi luôn đồng hành cùng bạn trên mọi chặng đường."
+                },
+                "6": {
+                    "title": "Kết quả đo lường được",
+                    "desc": "Chúng tôi tập trung vào việc mang lại giá trị kinh doanh hữu hình với ROI và các chỉ số hiệu suất rõ ràng."
+                }
+            }
+        },
+        "cta": {
+            "title": "Sẵn sàng chuyển đổi doanh nghiệp với AI?",
+            "desc": "Hãy thảo luận về cách các giải pháp AI của chúng tôi có thể giúp bạn đạt được mục tiêu kinh doanh.",
+            "btn": "Bắt đầu ngay"
+        }
+    },
+    "about": {
+        "heroTitle": "Về AITechVision",
+        "heroSubtitle": "Tiên phong các giải pháp AI giúp chuyển đổi doanh nghiệp và định hình tương lai công nghệ",
+        "joinTeam": "Gia nhập đội ngũ",
+        "ourWork": "Dự án của chúng tôi",
+        "ourStory": "Câu chuyện của chúng tôi",
+        "storyText1": "Được thành lập vào năm 2014, AITechVision ra đời từ một niềm tin đơn giản: trí tuệ nhân tạo nên dễ tiếp cận, thiết thực và mang tính chuyển đổi cho mọi doanh nghiệp.",
+        "storyText2": "Khởi đầu từ một nhóm nhỏ các nhà nghiên cứu AI đầy nhiệt huyết, chúng tôi đã phát triển thành nhà cung cấp giải pháp AI hàng đầu, phục vụ khách hàng trong các lĩnh vực y tế, tài chính, bán lẻ và sản xuất trên toàn cầu.",
+        "storyText3": "Ngày nay, chúng tôi tự hào đã thực hiện hơn 150 dự án AI thành công, giúp các doanh nghiệp mở ra cơ hội mới và giải quyết các thách thức phức tạp bằng công nghệ tiên tiến.",
+        "mission": "Sứ mệnh",
+        "missionDesc": "Trao quyền cho doanh nghiệp bằng các giải pháp AI thông minh giúp thúc đẩy đổi mới, hiệu quả và tăng trưởng bền vững trong thế giới số.",
+        "vision": "Tầm nhìn",
+        "visionDesc": "Trở thành đối tác AI đáng tin cậy nhất thế giới, được công nhận về việc cung cấp các giải pháp mang tính chuyển đổi, tạo ra giá trị lâu dài cho khách hàng và xã hội.",
+        "values": "Giá trị cốt lõi",
+        "valuesDesc": "Đổi mới, chính trực, xuất sắc và hợp tác là kim chỉ nam cho mọi hoạt động của chúng tôi. Chúng tôi cam kết phát triển AI có đạo đức và vì sự thành công của khách hàng.",
+        "meetTeam": "Gặp gỡ Chuyên gia",
+        "teamDesc": "Các chuyên gia AI đẳng cấp thế giới tận tâm vì sự thành công của bạn",
+        "achievements": "Thành tựu của chúng tôi"
+    },
+    "services": {
+        "heroTitle": "Dịch vụ & Giải pháp AI",
+        "heroSubtitle": "Dịch vụ AI và máy học toàn diện để chuyển đổi hoạt động kinh doanh và thúc đẩy đổi mới",
+        "getQuote": "Nhận báo giá",
+        "viewPortfolio": "Xem hồ sơ năng lực",
+        "coreServices": "Dịch vụ cốt lõi",
+        "coreServicesDesc": "Giải pháp AI toàn diện được thiết kế để giải quyết các thách thức kinh doanh độc đáo của bạn",
+        "process": "Quy trình phát triển",
+        "processDesc": "Phương pháp đã được kiểm chứng để cung cấp các dự án AI thành công",
+        "technologies": "Công nghệ chúng tôi làm chủ"
+    },
+    "solutions": {
+        "heroTitle": "Giải pháp ngành",
+        "heroSubtitle": "Giải pháp AI được thiết kế riêng cho những thách thức và cơ hội độc đáo của ngành bạn",
+        "discussNeeds": "Thảo luận nhu cầu",
+        "viewCaseStudies": "Xem nghiên cứu điển hình",
+        "industrySolutions": "Giải pháp AI theo ngành",
+        "industrySolutionsDesc": "Các giải pháp AI chuyên biệt giải quyết các thách thức đặc thù của ngành",
+        "whyChoose": "Tại sao chọn giải pháp của chúng tôi",
+        "benefits": {
+            "domain": {
+                "title": "Chuyên môn sâu rộng",
+                "desc": "Hiểu biết sâu sắc về các thách thức và quy định đặc thù của ngành"
+            },
+            "results": {
+                "title": "Kết quả đã được chứng minh",
+                "desc": "Thành tích triển khai thành công trên nhiều ngành công nghiệp"
+            },
+            "scalable": {
+                "title": "Giải pháp có thể mở rộng",
+                "desc": "Được xây dựng để phát triển cùng doanh nghiệp và thích ứng với nhu cầu thay đổi"
+            },
+            "compliance": {
+                "title": "Tuân thủ quy định",
+                "desc": "Giải pháp được thiết kế chú trọng đến các quy định và tuân thủ của ngành"
+            }
+        }
+    },
+    "portfolio": {
+        "heroTitle": "Câu chuyện thành công",
+        "heroSubtitle": "Khám phá danh mục các dự án AI thành công của chúng tôi đã chuyển đổi các doanh nghiệp trong nhiều ngành",
+        "startProject": "Bắt đầu dự án",
+        "ourServices": "Dịch vụ của chúng tôi",
+        "noProjects": "Không tìm thấy dự án nào trong danh mục này."
+    },
+    "careers": {
+        "heroTitle": "Gia nhập đội ngũ",
+        "heroSubtitle": "Cùng chúng tôi định hình tương lai của AI và làm việc trên các dự án tiên tiến tạo ra tác động thực sự",
+        "viewPositions": "Xem vị trí tuyển dụng",
+        "ourCulture": "Văn hóa của chúng tôi",
+        "cultureTitle": "Văn hóa doanh nghiệp",
+        "cultureText1": "Tại AITechVision, chúng tôi tin tưởng vào việc nuôi dưỡng văn hóa đổi mới, hợp tác và học hỏi không ngừng. Chúng tôi đam mê đẩy lùi giới hạn của những gì có thể với AI.",
+        "cultureText2": "Hãy gia nhập đội ngũ nơi ý tưởng của bạn được coi trọng, sự phát triển của bạn được hỗ trợ và công việc của bạn tạo ra tác động ý nghĩa đến doanh nghiệp và xã hội.",
+        "whyWork": "Tại sao làm việc với chúng tôi",
+        "openPositions": "Vị trí đang tuyển",
+        "openPositionsDesc": "Gia nhập đội ngũ và giúp xây dựng tương lai của AI",
+        "applyNow": "Ứng tuyển ngay"
+    },
+    "contact": {
+        "heroTitle": "Liên hệ",
+        "heroSubtitle": "Hãy thảo luận cách chúng tôi có thể giúp chuyển đổi doanh nghiệp của bạn với các giải pháp AI",
+        "callUs": "Gọi cho chúng tôi",
+        "ourLocations": "Địa điểm văn phòng",
+        "conversation": "Bắt đầu cuộc trò chuyện",
+        "conversationDesc": "Cho dù bạn đang tìm cách xây dựng giải pháp AI mới hay tối ưu hóa hệ thống hiện có, đội ngũ của chúng tôi luôn sẵn sàng hỗ trợ. Điền vào biểu mẫu và chúng tôi sẽ liên hệ lại trong vòng 24 giờ.",
+        "officeLocation": "Địa chỉ văn phòng",
+        "phoneNumber": "Số điện thoại",
+        "emailAddress": "Địa chỉ Email",
+        "businessHours": "Giờ làm việc",
+        "globalOffices": "Văn phòng toàn cầu",
+        "globalOfficesDesc": "Chúng tôi có văn phòng tại các trung tâm công nghệ lớn trên thế giới"
+    },
+    "footer": {
+        "desc": "Nhà cung cấp giải pháp AI hàng đầu, chuyển đổi doanh nghiệp với các công nghệ trí tuệ nhân tạo và máy học tiên tiến.",
+        "quickLinks": "Liên kết nhanh",
+        "services": "Dịch vụ",
+        "resources": "Tài nguyên",
+        "contact": "Liên hệ",
+        "privacy": "Chính sách bảo mật",
+        "terms": "Điều khoản dịch vụ",
+        "rights": "© {{year}} AITechVision. Đã đăng ký bản quyền.",
+        "blog": "Blog",
+        "caseStudies": "Nghiên cứu điển hình",
+        "address": "123 Đường AI, Thành phố Công nghệ",
+        "phone": "+1 (555) 123-4567",
+        "email": "info@aitechvision.com"
+    },
+    "resources": {
+        "heroTitle": "Tài nguyên & Thông tin chi tiết",
+        "heroSubtitle": "Cập nhật các xu hướng, thông tin chi tiết và thực tiễn tốt nhất mới nhất về AI và máy học",
+        "subscribe": "Đăng ký nhận bản tin",
+        "viewAll": "Xem tất cả bài viết",
+        "latestArticles": "Bài viết mới nhất",
+        "latestArticlesDesc": "Thông tin chuyên sâu và tư duy lãnh đạo từ đội ngũ AI của chúng tôi",
+        "readMore": "Đọc thêm →",
+        "stayUpdated": "Cập nhật thông tin AI",
+        "newsletterDesc": "Đăng ký nhận bản tin của chúng tôi và nhận các xu hướng AI, nghiên cứu điển hình và lời khuyên của chuyên gia mới nhất được gửi đến hộp thư đến của bạn.",
+        "emailPlaceholder": "Nhập địa chỉ email của bạn",
+        "subscribeBtn": "Đăng ký"
+    },
+    "data": {
+        "services": {
+            "1": {
+                "title": "Phát triển AI/ML",
+                "desc": "Các giải pháp trí tuệ nhân tạo và máy học tùy chỉnh phù hợp với nhu cầu kinh doanh của bạn. Chúng tôi xây dựng các hệ thống thông minh có khả năng học hỏi và thích ứng.",
+                "features": [
+                    "Học sâu",
+                    "Mạng nơ-ron",
+                    "Huấn luyện mô hình",
+                    "Tích hợp AI"
+                ]
+            },
+            "2": {
+                "title": "Xử lý ngôn ngữ tự nhiên",
+                "desc": "Giải pháp NLP tiên tiến để phân tích văn bản, phân tích cảm xúc, chatbot và hiểu ngôn ngữ để nâng cao tương tác khách hàng.",
+                "features": [
+                    "Phân tích văn bản",
+                    "Chatbot",
+                    "Phân tích cảm xúc",
+                    "Mô hình ngôn ngữ"
+                ]
+            },
+            "3": {
+                "title": "Thị giác máy tính",
+                "desc": "Hệ thống thị giác máy tính tiên tiến để nhận dạng hình ảnh, phát hiện đối tượng, nhận diện khuôn mặt và phân tích dữ liệu hình ảnh.",
+                "features": [
+                    "Nhận dạng hình ảnh",
+                    "Phát hiện đối tượng",
+                    "Nhận diện khuôn mặt",
+                    "Phân tích video"
+                ]
+            },
+            "4": {
+                "title": "Phân tích dữ liệu & BI",
+                "desc": "Chuyển đổi dữ liệu của bạn thành thông tin chi tiết có thể hành động với các giải pháp phân tích và trí tuệ doanh nghiệp được hỗ trợ bởi AI.",
+                "features": [
+                    "Phân tích dự đoán",
+                    "Trực quan hóa dữ liệu",
+                    "Thông tin chi tiết thời gian thực",
+                    "Bảng điều khiển tùy chỉnh"
+                ]
+            },
+            "5": {
+                "title": "Tư vấn AI",
+                "desc": "Tư vấn AI chiến lược giúp bạn xác định cơ hội, phát triển lộ trình và triển khai các giải pháp AI mang lại giá trị kinh doanh.",
+                "features": [
+                    "Phát triển chiến lược",
+                    "Phân tích ROI",
+                    "Kế hoạch triển khai",
+                    "Thực tiễn tốt nhất"
+                ]
+            },
+            "6": {
+                "title": "Giải pháp AI tùy chỉnh",
+                "desc": "Giải pháp AI tùy chỉnh toàn diện được thiết kế đặc biệt cho những thách thức kinh doanh và yêu cầu ngành độc đáo của bạn.",
+                "features": [
+                    "Phát triển tùy chỉnh",
+                    "Dịch vụ tích hợp",
+                    "Kiến trúc có thể mở rộng",
+                    "Hỗ trợ liên tục"
+                ]
+            },
+            "7": {
+                "title": "Phát triển Chatbot",
+                "desc": "AI đàm thoại thông minh và chatbot cung cấp hỗ trợ khách hàng 24/7 và nâng cao mức độ tương tác của người dùng.",
+                "features": [
+                    "Hỗ trợ đa kênh",
+                    "Hội thoại tự nhiên",
+                    "Sẵn sàng tích hợp",
+                    "Bảng điều khiển phân tích"
+                ]
+            },
+            "8": {
+                "title": "Phân tích dự đoán",
+                "desc": "Tận dụng máy học để dự đoán xu hướng, dự báo kết quả và đưa ra quyết định dựa trên dữ liệu một cách tự tin.",
+                "features": [
+                    "Mô hình dự báo",
+                    "Đánh giá rủi ro",
+                    "Phân tích xu hướng",
+                    "Hỗ trợ quyết định"
+                ]
+            }
+        },
+        "solutions": {
+            "1": {
+                "title": "AI trong Y tế",
+                "desc": "Giải pháp AI tiên tiến cho chẩn đoán y khoa, chăm sóc bệnh nhân, phát hiện thuốc mới và tối ưu hóa hoạt động y tế.",
+                "features": [
+                    "Phân tích hình ảnh y tế",
+                    "Chẩn đoán dự đoán",
+                    "Theo dõi bệnh nhân",
+                    "AI phát hiện thuốc mới"
+                ]
+            },
+            "2": {
+                "title": "AI trong Tài chính",
+                "desc": "Hệ thống thông minh để phát hiện gian lận, đánh giá rủi ro, giao dịch thuật toán và tự động hóa dịch vụ khách hàng.",
+                "features": [
+                    "Phát hiện gian lận",
+                    "Phân tích rủi ro",
+                    "Thuật toán giao dịch",
+                    "Chấm điểm tín dụng"
+                ]
+            },
+            "3": {
+                "title": "AI cho Bán lẻ & TMĐT",
+                "desc": "Công cụ cá nhân hóa, dự báo nhu cầu, tối ưu hóa hàng tồn kho và phân tích hành vi khách hàng.",
+                "features": [
+                    "Hệ thống đề xuất",
+                    "Dự báo nhu cầu",
+                    "Tối ưu hóa giá",
+                    "Phân tích khách hàng"
+                ]
+            },
+            "4": {
+                "title": "AI trong Sản xuất",
+                "desc": "Giải pháp sản xuất thông minh bao gồm kiểm soát chất lượng, bảo trì dự đoán và tối ưu hóa sản xuất.",
+                "features": [
+                    "Đảm bảo chất lượng",
+                    "Bảo trì dự đoán",
+                    "Tối ưu hóa quy trình",
+                    "Chuỗi cung ứng AI"
+                ]
+            },
+            "5": {
+                "title": "Công nghệ Giáo dục",
+                "desc": "Nền tảng học tập thích ứng, dự đoán hiệu suất học sinh và trải nghiệm giáo dục được cá nhân hóa.",
+                "features": [
+                    "Học tập thích ứng",
+                    "Phân tích hiệu suất",
+                    "Đề xuất nội dung",
+                    "Chấm điểm tự động"
+                ]
+            },
+            "6": {
+                "title": "Thành phố thông minh & IoT",
+                "desc": "Giải pháp hỗ trợ AI cho quản lý giao thông, tối ưu hóa năng lượng và quy hoạch đô thị.",
+                "features": [
+                    "Tối ưu hóa giao thông",
+                    "Quản lý năng lượng",
+                    "Quản lý chất thải",
+                    "An toàn công cộng"
+                ]
+            }
+        },
+        "about": {
+            "achievements": {
+                "1": {
+                    "title": "Công ty AI tốt nhất 2023",
+                    "org": "Giải thưởng Đổi mới Công nghệ"
+                },
+                "2": {
+                    "title": "Top 10 Khởi nghiệp AI",
+                    "org": "Forbes Technology"
+                },
+                "3": {
+                    "title": "Xuất sắc trong Máy học",
+                    "org": "AI Summit 2023"
+                },
+                "4": {
+                    "title": "Dẫn đầu Đổi mới",
+                    "org": "Giải thưởng Công nghệ Toàn cầu"
+                }
+            }
+        },
+        "team": {
+            "1": {
+                "pos": "Giám đốc AI",
+                "bio": "Hơn 15 năm nghiên cứu và phát triển AI. Tiến sĩ về Máy học từ MIT."
+            },
+            "2": {
+                "pos": "Kỹ sư trưởng ML",
+                "bio": "Chuyên gia về học sâu và mạng nơ-ron. Cựu nghiên cứu viên AI của Google."
+            },
+            "3": {
+                "pos": "Chuyên gia NLP",
+                "bio": "Chuyên về xử lý ngôn ngữ tự nhiên và hệ thống AI đàm thoại."
+            },
+            "4": {
+                "pos": "Trưởng nhóm Thị giác máy tính",
+                "bio": "Người tiên phong trong công nghệ thị giác máy tính và nhận dạng hình ảnh."
+            },
+            "5": {
+                "pos": "Giám đốc Khoa học Dữ liệu",
+                "bio": "Chuyển đổi dữ liệu phức tạp thành thông tin chi tiết kinh doanh bằng cách sử dụng AI."
+            },
+            "6": {
+                "pos": "Kiến trúc sư Giải pháp AI",
+                "bio": "Thiết kế kiến trúc AI có thể mở rộng cho các ứng dụng cấp doanh nghiệp."
+            }
+        },
+        "portfolio": {
+            "categories": {
+                "All": "Tất cả",
+                "Healthcare": "Y tế",
+                "Finance": "Tài chính",
+                "Retail": "Bán lẻ",
+                "Manufacturing": "Sản xuất",
+                "Education": "Giáo dục",
+                "Customer Service": "Dịch vụ khách hàng"
+            },
+            "1": {
+                "title": "AI Chẩn đoán Y tế",
+                "desc": "Hệ thống chẩn đoán hỗ trợ AI giúp bác sĩ xác định bệnh với độ chính xác 95%.",
+                "results": "Độ chính xác 95%, chẩn đoán nhanh hơn 40%"
+            },
+            "2": {
+                "title": "Phát hiện Gian lận Tài chính",
+                "desc": "Hệ thống máy học phát hiện các giao dịch gian lận trong thời gian thực.",
+                "results": "Tỷ lệ phát hiện gian lừa 99.7%, tiết kiệm 2 triệu đô la hàng năm"
+            },
+            "3": {
+                "title": "Công cụ Đề xuất Bán lẻ",
+                "desc": "Hệ thống đề xuất sản phẩm được cá nhân hóa giúp tăng doanh số bán hàng lên 35%.",
+                "results": "Tăng 35% doanh số, tương tác cao hơn 50%"
+            },
+            "4": {
+                "title": "QA Sản xuất Thông minh",
+                "desc": "Hệ thống thị giác máy tính để đảm bảo chất lượng tự động trong sản xuất.",
+                "results": "Phát hiện lỗi 99.5%, giảm 60% chi phí"
+            },
+            "5": {
+                "title": "Nền tảng Cá nhân hóa Giáo dục",
+                "desc": "Nền tảng học tập dựa trên AI thích ứng với nhu cầu của từng học sinh.",
+                "results": "Cải thiện 45% kết quả học tập"
+            },
+            "6": {
+                "title": "Chatbot Dịch vụ Khách hàng",
+                "desc": "Chatbot thông minh xử lý hơn 10.000 truy vấn của khách hàng hàng ngày.",
+                "results": "Giải quyết 80% truy vấn, sẵn sàng 24/7"
+            }
+        },
+        "careers": {
+            "positions": {
+                "1": {
+                    "title": "Kỹ sư Máy học Cấp cao",
+                    "dept": "Kỹ thuật",
+                    "loc": "San Francisco, CA",
+                    "type": "Toàn thời gian"
+                },
+                "2": {
+                    "title": "Nhà khoa học Nghiên cứu AI",
+                    "dept": "Nghiên cứu",
+                    "loc": "New York, NY",
+                    "type": "Toàn thời gian"
+                },
+                "3": {
+                    "title": "Nhà khoa học Dữ liệu",
+                    "dept": "Khoa học Dữ liệu",
+                    "loc": "Từ xa",
+                    "type": "Toàn thời gian"
+                },
+                "4": {
+                    "title": "Kỹ sư NLP",
+                    "dept": "Kỹ thuật",
+                    "loc": "Boston, MA",
+                    "type": "Toàn thời gian"
+                },
+                "5": {
+                    "title": "Kỹ sư Thị giác máy tính",
+                    "dept": "Kỹ thuật",
+                    "loc": "Seattle, WA",
+                    "type": "Toàn thời gian"
+                },
+                "6": {
+                    "title": "Giám đốc Sản phẩm AI",
+                    "dept": "Sản phẩm",
+                    "loc": "San Francisco, CA",
+                    "type": "Toàn thời gian"
+                }
+            },
+            "benefits": {
+                "1": {
+                    "title": "Lương cạnh tranh",
+                    "desc": "Các gói thù lao hàng đầu trong ngành với các quyền chọn cổ phiếu"
+                },
+                "2": {
+                    "title": "Đội ngũ tuyệt vời",
+                    "desc": "Làm việc với các nhà nghiên cứu và kỹ sư AI đẳng cấp thế giới"
+                },
+                "3": {
+                    "title": "Sức khỏe & An sinh",
+                    "desc": "Bảo hiểm y tế toàn diện và các chương trình chăm sóc sức khỏe"
+                },
+                "4": {
+                    "title": "Làm việc linh hoạt",
+                    "desc": "Thân thiện với làm việc từ xa với giờ làm việc linh hoạt"
+                }
+            }
+        },
+        "blog": {
+            "1": {
+                "title": "Tương lai của AI trong Y tế",
+                "excerpt": "Khám phá cách trí tuệ nhân tạo đang cách mạng hóa chẩn đoán y tế và chăm sóc bệnh nhân...",
+                "category": "Y tế"
+            },
+            "2": {
+                "title": "Thực tiễn tốt nhất về Máy học",
+                "excerpt": "Các hướng dẫn thiết yếu để xây dựng các hệ thống máy học mạnh mẽ và có thể mở rộng...",
+                "category": "Công nghệ"
+            },
+            "3": {
+                "title": "Đạo đức AI và Phát triển có trách nhiệm",
+                "excerpt": "Hiểu tầm quan trọng của các cân nhắc đạo đức trong phát triển AI...",
+                "category": "Đạo đức"
+            },
+            "4": {
+                "title": "Xu hướng Xử lý ngôn ngữ tự nhiên",
+                "excerpt": "Những tiến bộ mới nhất trong NLP và ứng dụng thực tế của chúng trong kinh doanh...",
+                "category": "NLP"
+            },
+            "5": {
+                "title": "Thị giác máy tính trong Sản xuất",
+                "excerpt": "Cách thị giác máy tính đang chuyển đổi kiểm soát chất lượng và hiệu quả sản xuất...",
+                "category": "Sản xuất"
+            },
+            "6": {
+                "title": "Dịch vụ khách hàng hỗ trợ AI",
+                "excerpt": "Xây dựng chatbot thông minh giúp nâng cao trải nghiệm và sự hài lòng của khách hàng...",
+                "category": "Dịch vụ khách hàng"
+            }
+        }
+    }
+}
