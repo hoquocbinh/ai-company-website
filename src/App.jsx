@@ -2,6 +2,7 @@ import { BrowserRouter as Router, Routes, Route, useLocation } from 'react-route
 import { useEffect } from 'react';
 import Header from './components/Header';
 import Footer from './components/Footer';
+import BackToTop from './components/BackToTop';
 import Home from './pages/Home';
 import About from './pages/About';
 import Services from './pages/Services';
@@ -42,6 +43,7 @@ function App() {
           </Routes>
         </main>
         <Footer />
+        <BackToTop />
       </div>
     </Router>
   );
