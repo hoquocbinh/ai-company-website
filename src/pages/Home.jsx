@@ -1,6 +1,6 @@
 import { Container, Row, Col } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
-import { FaRocket, FaUsers, FaAward, FaChartLine } from 'react-icons/fa';
+
 import { useTranslation, Trans } from 'react-i18next';
 import Hero from '../components/Hero';
 import ServiceCard from '../components/ServiceCard';
@@ -22,40 +22,7 @@ const Home = () => {
             />
 
             {/* Stats Section */}
-            <section className="stats-section section-padding">
-                <Container>
-                    <Row className="text-center">
-                        <Col md={3} sm={6} className="mb-4 mb-md-0">
-                            <div className="stat-card" data-aos="fade-up" data-aos-duration="600">
-                                <FaRocket className="stat-icon" />
-                                <h3 className="stat-number">{t('home.stats.projects.value')}</h3>
-                                <p className="stat-label">{t('home.stats.projects.label')}</p>
-                            </div>
-                        </Col>
-                        <Col md={3} sm={6} className="mb-4 mb-md-0">
-                            <div className="stat-card" data-aos="fade-up" data-aos-duration="600" data-aos-delay="100">
-                                <FaUsers className="stat-icon" />
-                                <h3 className="stat-number">{t('home.stats.clients.value')}</h3>
-                                <p className="stat-label">{t('home.stats.clients.label')}</p>
-                            </div>
-                        </Col>
-                        <Col md={3} sm={6} className="mb-4 mb-md-0">
-                            <div className="stat-card" data-aos="fade-up" data-aos-duration="600" data-aos-delay="200">
-                                <FaAward className="stat-icon" />
-                                <h3 className="stat-number">{t('home.stats.awards.value')}</h3>
-                                <p className="stat-label">{t('home.stats.awards.label')}</p>
-                            </div>
-                        </Col>
-                        <Col md={3} sm={6}>
-                            <div className="stat-card" data-aos="fade-up" data-aos-duration="600" data-aos-delay="300">
-                                <FaChartLine className="stat-icon" />
-                                <h3 className="stat-number">{t('home.stats.satisfaction.value')}</h3>
-                                <p className="stat-label">{t('home.stats.satisfaction.label')}</p>
-                            </div>
-                        </Col>
-                    </Row>
-                </Container>
-            </section>
+
 
             {/* About Preview Section */}
             <section className="about-preview section-padding bg-light-gray">
