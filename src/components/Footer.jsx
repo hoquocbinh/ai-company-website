@@ -2,6 +2,7 @@ import { Link } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 import { Container, Row, Col } from 'react-bootstrap';
 import { FaFacebookF, FaTwitter, FaLinkedinIn, FaGithub, FaEnvelope, FaPhone, FaMapMarkerAlt } from 'react-icons/fa';
+import config from '../config';
 import './Footer.css';
 
 const Footer = () => {
@@ -37,7 +38,7 @@ const Footer = () => {
                         <div className="footer-brand">
                             <div className="brand">
                                 <span className="brand-icon">AI</span>
-                                <span className="brand-text">TechVision</span>
+                                <span className="brand-text">VTech</span>
                             </div>
                             <p className="footer-description">
                                 {t('footer.desc')}
@@ -97,15 +98,15 @@ const Footer = () => {
                         <ul className="footer-contact">
                             <li>
                                 <FaMapMarkerAlt />
-                                <span>{t('footer.address')}</span>
+                                <span>{config.contact.address}</span>
                             </li>
                             <li>
                                 <FaPhone />
-                                <span>{t('footer.phone')}</span>
+                                <span>{config.contact.phone}</span>
                             </li>
                             <li>
                                 <FaEnvelope />
-                                <span>{t('footer.email')}</span>
+                                <span>{config.contact.email}</span>
                             </li>
                         </ul>
                     </Col>

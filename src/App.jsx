@@ -8,8 +8,8 @@ import About from './pages/About';
 import Services from './pages/Services';
 import Solutions from './pages/Solutions';
 import Portfolio from './pages/Portfolio';
-import Resources from './pages/Resources';
-import Careers from './pages/Careers';
+import AIProjects from './pages/AIProjects';
+import Courses from './pages/Courses';
 import Contact from './pages/Contact';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './index.css';
@@ -37,8 +37,8 @@ function App() {
             <Route path="/services" element={<Services />} />
             <Route path="/solutions" element={<Solutions />} />
             <Route path="/portfolio" element={<Portfolio />} />
-            <Route path="/resources" element={<Resources />} />
-            <Route path="/careers" element={<Careers />} />
+            <Route path="/ai-projects" element={<AIProjects />} />
+            <Route path="/courses" element={<Courses />} />
             <Route path="/contact" element={<Contact />} />
           </Routes>
         </main>

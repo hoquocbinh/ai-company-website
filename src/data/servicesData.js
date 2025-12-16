@@ -1,7 +1,7 @@
 export const servicesData = [
   {
     id: 1,
-    title: "AI/ML Development",
+    title: "AI/Machine Learning Development",
     description: "Custom artificial intelligence and machine learning solutions tailored to your business needs. We build intelligent systems that learn and adapt.",
     icon: "FaBrain",
     features: ["Deep Learning", "Neural Networks", "Model Training", "AI Integration"]
@@ -22,7 +22,7 @@ export const servicesData = [
   },
   {
     id: 4,
-    title: "Data Analytics & BI",
+    title: "Data Analytics",
     description: "Transform your data into actionable insights with our advanced analytics and business intelligence solutions powered by AI.",
     icon: "FaChartLine",
     features: ["Predictive Analytics", "Data Visualization", "Real-time Insights", "Custom Dashboards"]

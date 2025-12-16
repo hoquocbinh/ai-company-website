@@ -143,42 +143,7 @@ const About = () => {
                 </Container>
             </section>
 
-            {/* Achievements */}
-            <section className="achievements-section section-padding bg-light-red">
-                <Container>
-                    <div className="section-header text-center mb-5">
-                        <h2 className="section-title" data-aos="fade-up">
-                            Our <span className="gradient-text">Achievements</span>
-                        </h2>
-                    </div>
-                    <Row>
-                        <Col lg={3} md={6} className="mb-4">
-                            <div className="achievement-card" data-aos="zoom-in" data-aos-duration="600">
-                                <h3 className="achievement-title">{t('data.about.achievements.1.title')}</h3>
-                                <p className="achievement-org">{t('data.about.achievements.1.org')}</p>
-                            </div>
-                        </Col>
-                        <Col lg={3} md={6} className="mb-4">
-                            <div className="achievement-card" data-aos="zoom-in" data-aos-duration="600" data-aos-delay="100">
-                                <h3 className="achievement-title">{t('data.about.achievements.2.title')}</h3>
-                                <p className="achievement-org">{t('data.about.achievements.2.org')}</p>
-                            </div>
-                        </Col>
-                        <Col lg={3} md={6} className="mb-4">
-                            <div className="achievement-card" data-aos="zoom-in" data-aos-duration="600" data-aos-delay="200">
-                                <h3 className="achievement-title">{t('data.about.achievements.3.title')}</h3>
-                                <p className="achievement-org">{t('data.about.achievements.3.org')}</p>
-                            </div>
-                        </Col>
-                        <Col lg={3} md={6} className="mb-4">
-                            <div className="achievement-card" data-aos="zoom-in" data-aos-duration="600" data-aos-delay="300">
-                                <h3 className="achievement-title">{t('data.about.achievements.4.title')}</h3>
-                                <p className="achievement-org">{t('data.about.achievements.4.org')}</p>
-                            </div>
-                        </Col>
-                    </Row>
-                </Container>
-            </section>
+
         </div >
     );
 };

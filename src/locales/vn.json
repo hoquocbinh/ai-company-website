@@ -5,14 +5,15 @@
         "services": "Dịch vụ",
         "solutions": "Giải pháp",
         "portfolio": "Dự án",
-        "resources": "Tài nguyên",
+        "resources": "Dự án AI",
+        "courses": "Khóa học",
         "careers": "Tuyển dụng",
         "contact": "Liên hệ",
         "getStarted": "Bắt đầu ngay"
     },
     "hero": {
-        "title": "Chuyển đổi Doanh nghiệp với đổi mới AI",
-        "subtitle": "Chúng tôi xây dựng các giải pháp AI tiên tiến thúc đẩy tăng trưởng, hiệu quả và lợi thế cạnh tranh cho các công ty có tầm nhìn xa.",
+        "title": "Thúc đẩy doanh nghiệp của bạn với đổi mới sáng tạo AI",
+        "subtitle": "Chúng tôi xây dựng các giải pháp AI tiên tiến giúp thúc đẩy tăng trưởng, hiệu quả và lợi thế cạnh tranh cho các doanh nghiệp.",
         "cta": "Bắt đầu hành trình AI",
         "ctaSecondary": "Khám phá dự án"
     },
@@ -38,7 +39,7 @@
         "aboutPreview": {
             "title": "Dẫn đầu <1>Cuộc cách mạng AI</1>",
             "desc1": "Với hơn một thập kỷ kinh nghiệm trong trí tuệ nhân tạo và máy học, chúng tôi đã giúp các doanh nghiệp trong nhiều ngành khai thác sức mạnh của AI để giải quyết các thách thức phức tạp và mở ra các cơ hội mới.",
-            "desc2": "Đội ngũ chuyên gia khoa học dữ liệu, kỹ sư ML và chuyên gia AI của chúng tôi đam mê tạo ra các giải pháp sáng tạo mang lại kết quả đo lường được.",
+            "desc2": "Đội ngũ chuyên gia AI và kỹ sư máy học nổi tiếng của chúng tôi đam mê tạo ra các giải pháp sáng tạo mang lại kết quả rõ rệt.",
             "btn": "Tìm hiểu thêm"
         },
         "services": {
@@ -47,16 +48,16 @@
             "btn": "Xem tất cả dịch vụ"
         },
         "whyChoose": {
-            "title": "Tại sao chọn <1>AITechVision</1>",
+            "title": "Tại sao chọn <1>AI-VTech</1>",
             "subtitle": "Chúng tôi mang đến sự xuất sắc thông qua sự đổi mới, chuyên môn và sự tận tâm",
             "features": {
                 "1": {
                     "title": "Đội ngũ chuyên gia",
-                    "desc": "Đội ngũ của chúng tôi bao gồm các Tiến sĩ, nhà nghiên cứu và chuyên gia trong ngành có chuyên môn sâu về AI, ML và khoa học dữ liệu."
+                    "desc": "Đội ngũ của chúng tôi bao gồm các nhà nghiên cứu và chuyên gia kỳ cựu trong ngành với kiến thức chuyên sâu về AI, ML và khoa học dữ liệu."
                 },
                 "2": {
                     "title": "Thành tích đã được kiểm chứng",
-                    "desc": "Hơn 150 dự án thành công trong các ngành y tế, tài chính, bán lẻ và sản xuất trên toàn thế giới."
+                    "desc": "Các dự án thành công trên khắp các ngành y tế, tài chính, bán lẻ và sản xuất trên toàn thế giới."
                 },
                 "3": {
                     "title": "Công nghệ tiên tiến",
@@ -83,12 +84,12 @@
         }
     },
     "about": {
-        "heroTitle": "Về AITechVision",
+        "heroTitle": "Về AI-VTech",
         "heroSubtitle": "Tiên phong các giải pháp AI giúp chuyển đổi doanh nghiệp và định hình tương lai công nghệ",
         "joinTeam": "Gia nhập đội ngũ",
         "ourWork": "Dự án của chúng tôi",
         "ourStory": "Câu chuyện của chúng tôi",
-        "storyText1": "Được thành lập vào năm 2014, AITechVision ra đời từ một niềm tin đơn giản: trí tuệ nhân tạo nên dễ tiếp cận, thiết thực và mang tính chuyển đổi cho mọi doanh nghiệp.",
+        "storyText1": "Được thành lập vào năm 2014, AI-VTech ra đời từ một niềm tin đơn giản: trí tuệ nhân tạo nên dễ tiếp cận, thiết thực và mang tính chuyển đổi cho mọi doanh nghiệp.",
         "storyText2": "Khởi đầu từ một nhóm nhỏ các nhà nghiên cứu AI đầy nhiệt huyết, chúng tôi đã phát triển thành nhà cung cấp giải pháp AI hàng đầu, phục vụ khách hàng trong các lĩnh vực y tế, tài chính, bán lẻ và sản xuất trên toàn cầu.",
         "storyText3": "Ngày nay, chúng tôi tự hào đã thực hiện hơn 150 dự án AI thành công, giúp các doanh nghiệp mở ra cơ hội mới và giải quyết các thách thức phức tạp bằng công nghệ tiên tiến.",
         "mission": "Sứ mệnh",
@@ -146,13 +147,26 @@
         "ourServices": "Dịch vụ của chúng tôi",
         "noProjects": "Không tìm thấy dự án nào trong danh mục này."
     },
+    "courses": {
+        "heroTitle": "KHÓA HỌC TRÍ TUỆ NHÂN TẠO",
+        "heroSubtitle": "Các khóa học giáo dục AI được thiết kế để giúp người học xây dựng các kỹ năng thực tế, từ các khái niệm cơ bản đến các ứng dụng thực tế. Các khóa học này kết hợp giải thích rõ ràng với thực hành có hướng dẫn để học sinh có thể tự tin sử dụng các công cụ AI, hiểu cách máy học hoạt động và áp dụng các phương pháp dựa trên dữ liệu để giải quyết vấn đề.",
+        "viewCourses": "Xem Tất cả Khóa học",
+        "ourCulture": "Văn hóa của Chúng tôi",
+        "enrollNow": "Đăng ký Ngay",
+        "courseContent": "Nội dung khóa học:"
+    },
+    "ai_projects": {
+        "heroTitle": "Dự án AI",
+        "heroSubtitle": "Các dự án AI biến dữ liệu thành các giải pháp thực tế giúp các tổ chức làm việc thông minh hơn, nhanh hơn và đưa ra quyết định tốt hơn. Bằng cách kết hợp học máy, tự động hóa và phân tích nâng cao, AI có thể khám phá các mẫu trong thông tin phức tạp, dự đoán kết quả, cá nhân hóa trải nghiệm và tối ưu hóa hoạt động.",
+        "readMore": "Đọc thêm →"
+    },
     "careers": {
         "heroTitle": "Gia nhập đội ngũ",
         "heroSubtitle": "Cùng chúng tôi định hình tương lai của AI và làm việc trên các dự án tiên tiến tạo ra tác động thực sự",
         "viewPositions": "Xem vị trí tuyển dụng",
         "ourCulture": "Văn hóa của chúng tôi",
         "cultureTitle": "Văn hóa doanh nghiệp",
-        "cultureText1": "Tại AITechVision, chúng tôi tin tưởng vào việc nuôi dưỡng văn hóa đổi mới, hợp tác và học hỏi không ngừng. Chúng tôi đam mê đẩy lùi giới hạn của những gì có thể với AI.",
+        "cultureText1": "Tại AI-VTech, chúng tôi tin tưởng vào việc nuôi dưỡng văn hóa đổi mới, hợp tác và học hỏi không ngừng. Chúng tôi đam mê đẩy lùi giới hạn của những gì có thể với AI.",
         "cultureText2": "Hãy gia nhập đội ngũ nơi ý tưởng của bạn được coi trọng, sự phát triển của bạn được hỗ trợ và công việc của bạn tạo ra tác động ý nghĩa đến doanh nghiệp và xã hội.",
         "whyWork": "Tại sao làm việc với chúng tôi",
         "openPositions": "Vị trí đang tuyển",
@@ -181,12 +195,12 @@
         "contact": "Liên hệ",
         "privacy": "Chính sách bảo mật",
         "terms": "Điều khoản dịch vụ",
-        "rights": "© {{year}} AITechVision. Đã đăng ký bản quyền.",
+        "rights": "© {{year}} AI-VTech. Đã đăng ký bản quyền.",
         "blog": "Blog",
         "caseStudies": "Nghiên cứu điển hình",
-        "address": "123 Đường AI, Thành phố Công nghệ",
-        "phone": "+1 (555) 123-4567",
-        "email": "info@aitechvision.com"
+        "address": "108/3/1 Trương Đăng Quế, Phường Hạnh Thông, TP.HCM",
+        "phone": "(84)386262237",
+        "email": "hoquocbinh2804@gmail.com"
     },
     "resources": {
         "heroTitle": "Tài nguyên & Thông tin chi tiết",
@@ -204,7 +218,7 @@
     "data": {
         "services": {
             "1": {
-                "title": "Phát triển AI/ML",
+                "title": "Phát triển AI/Machine Learning",
                 "desc": "Các giải pháp trí tuệ nhân tạo và máy học tùy chỉnh phù hợp với nhu cầu kinh doanh của bạn. Chúng tôi xây dựng các hệ thống thông minh có khả năng học hỏi và thích ứng.",
                 "features": [
                     "Học sâu",
@@ -521,6 +535,98 @@
                 "title": "Dịch vụ khách hàng hỗ trợ AI",
                 "excerpt": "Xây dựng chatbot thông minh giúp nâng cao trải nghiệm và sự hài lòng của khách hàng...",
                 "category": "Dịch vụ khách hàng"
+            }
+        },
+        "ai_projects": {
+            "categories": {
+                "All": "Tất cả",
+                "Healthcare": "Y tế",
+                "Education": "Giáo dục",
+                "Government": "Chính phủ"
+            },
+            "1": {
+                "title": "Chatbot Y tế",
+                "desc": "Chatbot y tế là một trợ lý phần mềm có thể trò chuyện với người dùng để cung cấp hỗ trợ liên quan đến sức khỏe và thông tin về bệnh tim mạch, tiểu đường và thai sản.",
+                "category": "Healthcare",
+                "tags": [
+                    "NLP",
+                    "Y tế",
+                    "Trợ lý AI"
+                ],
+                "results": "Giảm 40% tải hỗ trợ, sẵn sàng 24/7"
+            },
+            "2": {
+                "title": "Chatbot Tư vấn Tuyển sinh",
+                "desc": "Trợ lý ảo giúp sinh viên tương lai và phụ huynh nhận thông tin và hướng dẫn về quy trình tuyển sinh của trường đại học.",
+                "category": "Education",
+                "tags": [
+                    "NLP",
+                    "Giáo dục",
+                    "Tự động hóa"
+                ],
+                "results": "Hỗ trợ 5000+ sinh viên, tăng 30% đơn đăng ký"
+            },
+            "3": {
+                "title": "Hệ thống Tạo Câu hỏi Trắc nghiệm",
+                "desc": "Hệ thống tạo câu hỏi trắc nghiệm (MCQ) nhanh chóng từ tài liệu PDF/ghi chú thay vì viết thủ công từng câu hỏi.",
+                "category": "Education",
+                "tags": [
+                    "OCR",
+                    "NLP",
+                    "Đánh giá"
+                ],
+                "results": "Tiết kiệm 90% thời gian tạo đề"
+            },
+            "4": {
+                "title": "Hệ thống Gợi ý Dịch vụ Công",
+                "desc": "Hệ thống gợi ý cho Thành phố Thông minh giúp cư dân và doanh nghiệp khám phá các dịch vụ công phù hợp vào đúng thời điểm.",
+                "category": "Government",
+                "tags": [
+                    "Gợi ý",
+                    "Smart City",
+                    "Dữ liệu lớn"
+                ],
+                "results": "Cải thiện 45% sự tham gia của người dân"
+            }
+        },
+        "courses": {
+            "courseContent": "Nội dung khóa học:",
+            "1": {
+                "title": "Ứng dụng Công cụ AI vào Phát triển Khóa học",
+                "desc": "Khóa học này giúp giảng viên và người thiết kế khóa học sử dụng các công cụ AI hiện đại để xây dựng các khóa học chất lượng cao nhanh hơn, mà không làm giảm tính chính xác học thuật hoặc mục đích giảng dạy. Bạn sẽ học các nguyên tắc cơ bản của kỹ thuật nhắc lệnh (prompt engineering) để giao tiếp rõ ràng với các hệ thống AI và nhận được kết quả hữu ích, chính xác. Sau đó, bạn sẽ áp dụng các kỹ năng đó vào các nhiệm vụ giảng dạy thực tế: tạo đề cương khóa học, thiết kế tài liệu bài giảng và tạo hoặc cải thiện video hướng dẫn.",
+                "features": [
+                    "Giới thiệu về kỹ thuật nhắc lệnh và cách viết lời nhắc hiệu quả",
+                    "Sử dụng AI để tạo đề cương khóa học và tài liệu bài giảng",
+                    "Sử dụng AI để tạo và chỉnh sửa video cho khóa học"
+                ]
+            },
+            "2": {
+                "title": "Nhập môn Khoa học Dữ liệu với Python",
+                "desc": "Khóa học này sẽ giới thiệu cho người học những điều cơ bản về môi trường lập trình python, bao gồm các kỹ thuật lập trình python cơ bản như lambda, đọc và thao tác các tệp csv và thư viện numpy. Khóa học sẽ giới thiệu các kỹ thuật thao tác và làm sạch dữ liệu sử dụng thư viện khoa học dữ liệu python pandas phổ biến và giới thiệu sự trừu tượng của Series và DataFrame như là cấu trúc dữ liệu trung tâm để phân tích dữ liệu, cùng với các hướng dẫn về cách sử dụng các hàm như groupby, merge và pivot tables một cách hiệu quả. Vào cuối khóa học này, sinh viên sẽ có thể lấy dữ liệu dạng bảng, làm sạch, thao tác và chạy các phân tích thống kê suy diễn cơ bản.",
+                "features": [
+                    "Cơ bản về Thao tác Dữ liệu với Python",
+                    "Xử lý Dữ liệu Cơ bản với Pandas",
+                    "Xử lý Dữ liệu Nâng cao với Pandas",
+                    "Trả lời Câu hỏi với Dữ liệu Hỗn độn"
+                ]
+            },
+            "3": {
+                "title": "Học máy Ứng dụng trong Python",
+                "desc": "Khóa học này sẽ giới thiệu cho người học về học máy ứng dụng, tập trung nhiều hơn vào các kỹ thuật và phương pháp hơn là thống kê đằng sau các phương pháp này. Khóa học sẽ bắt đầu với thảo luận về sự khác biệt giữa học máy và thống kê mô tả, và giới thiệu bộ công cụ scikit learn thông qua hướng dẫn. Vấn đề về chiều của dữ liệu sẽ được thảo luận, và nhiệm vụ phân cụm dữ liệu, cũng như đánh giá các cụm đó, sẽ được giải quyết. Các phương pháp tiếp cận có giám sát để tạo mô hình dự đoán sẽ được mô tả, và người học sẽ có thể áp dụng các phương pháp mô hình hóa dự đoán của scikit learn trong khi hiểu các vấn đề quy trình liên quan đến khả năng tổng quát hóa dữ liệu (ví dụ: kiểm chứng chéo, quá khớp). Khóa học sẽ kết thúc với cái nhìn về các kỹ thuật nâng cao hơn, chẳng hạn như xây dựng tổ hợp, và những hạn chế thực tế của các mô hình dự đoán. Vào cuối khóa học này, sinh viên sẽ có thể xác định sự khác biệt giữa kỹ thuật có giám sát (phân loại) và không giám sát (phân cụm), xác định kỹ thuật nào cần áp dụng cho một tập dữ liệu và nhu cầu cụ thể, thiết kế các tính năng để đáp ứng nhu cầu đó và viết mã python để thực hiện phân tích.",
+                "features": [
+                    "Cơ bản về Học máy",
+                    "Học máy có giám sát",
+                    "Đánh giá"
+                ]
+            },
+            "4": {
+                "title": "Biểu đồ Ứng dụng & Trực quan hóa Dữ liệu trong Python",
+                "desc": "Khóa học này sẽ giới thiệu cho người học về các kiến thức cơ bản về trực quan hóa thông tin, tập trung vào báo cáo và biểu đồ sử dụng thư viện matplotlib. Khóa học sẽ bắt đầu với quan điểm về thiết kế và kiến thức thông tin, đề cập đến điều gì tạo nên một trực quan hóa tốt và xấu, và các thước đo thống kê chuyển thành trực quan hóa như thế nào. Tuần thứ hai sẽ tập trung vào công nghệ được sử dụng để tạo trực quan hóa trong python, matplotlib, và giới thiệu cho người dùng các thực tiễn tốt nhất khi tạo các biểu đồ cơ bản và cách hiện thực hóa các quyết định thiết kế trong khuôn khổ. Tuần thứ ba sẽ là hướng dẫn về chức năng có sẵn trong matplotlib, và trình bày nhiều loại biểu đồ thống kê cơ bản giúp người học xác định khi nào một phương pháp cụ thể là tốt cho một vấn đề cụ thể. Khóa học sẽ kết thúc với thảo luận về các hình thức cấu trúc và trực quan hóa dữ liệu khác.",
+                "features": [
+                    "Biểu đồ cơ bản",
+                    "Cơ bản về lập biểu đồ",
+                    "Trực quan hóa ứng dụng"
+                ]
             }
         }
     }

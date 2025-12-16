@@ -125,4 +125,4 @@ Replace images in `src/assets/images/` directory. Images are organized by:
 
 ## License
 
-MIT License
+No License

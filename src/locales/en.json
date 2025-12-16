@@ -5,14 +5,14 @@
         "services": "Services",
         "solutions": "Solutions",
         "portfolio": "Portfolio",
-        "resources": "Resources",
-        "careers": "Careers",
+        "resources": "AI Projects",
+        "courses": "Courses",
         "contact": "Contact",
         "getStarted": "Get Started"
     },
     "hero": {
-        "title": "Transform Your Business with AI Innovation",
-        "subtitle": "We build cutting-edge AI solutions that drive growth, efficiency, and competitive advantage for forward-thinking companies.",
+        "title": "Power Your Business with AI Innovation",
+        "subtitle": "We build cutting-edge AI solutions that drive growth, efficiency, and competitive advantage for companies.",
         "cta": "Start Your AI Journey",
         "ctaSecondary": "Explore Our Work"
     },
@@ -38,7 +38,7 @@
         "aboutPreview": {
             "title": "Leading the <1>AI Revolution</1>",
             "desc1": "With over a decade of experience in artificial intelligence and machine learning, we've helped businesses across industries harness the power of AI to solve complex challenges and unlock new opportunities.",
-            "desc2": "Our team of expert data scientists, ML engineers, and AI specialists are passionate about creating innovative solutions that deliver measurable results.",
+            "desc2": "Our team of renowned AI experts and ML engineers are passionate about creating innovative solutions that deliver measurable results.",
             "btn": "Learn More About Us"
         },
         "services": {
@@ -47,16 +47,16 @@
             "btn": "View All Services"
         },
         "whyChoose": {
-            "title": "Why Choose <1>AITechVision</1>",
+            "title": "Why Choose <1>AI-VTech</1>",
             "subtitle": "We deliver excellence through innovation, expertise, and dedication",
             "features": {
                 "1": {
                     "title": "Expert Team",
-                    "desc": "Our team consists of PhDs, researchers, and industry veterans with deep expertise in AI, ML, and data science."
+                    "desc": "Our team consists of researchers, and industry veterans with deep expertise in AI, ML, and data science."
                 },
                 "2": {
                     "title": "Proven Track Record",
-                    "desc": "150+ successful projects across healthcare, finance, retail, and manufacturing industries worldwide."
+                    "desc": "The successful projects across healthcare, finance, retail, and manufacturing industries worldwide."
                 },
                 "3": {
                     "title": "Cutting-Edge Technology",
@@ -83,12 +83,12 @@
         }
     },
     "about": {
-        "heroTitle": "About AITechVision",
+        "heroTitle": "About AI-VTech",
         "heroSubtitle": "Pioneering AI solutions that transform businesses and shape the future of technology",
         "joinTeam": "Join Our Team",
         "ourWork": "Our Work",
         "ourStory": "Our Story",
-        "storyText1": "Founded in 2014, AITechVision emerged from a simple belief: artificial intelligence should be accessible, practical, and transformative for businesses of all sizes.",
+        "storyText1": "Founded in 2014, AI-VTech emerged from a simple belief: artificial intelligence should be accessible, practical, and transformative for businesses of all sizes.",
         "storyText2": "What started as a small team of passionate AI researchers has grown into a leading AI solutions provider, serving clients across healthcare, finance, retail, and manufacturing industries worldwide.",
         "storyText3": "Today, we're proud to have delivered over 150 successful AI projects, helping businesses unlock new opportunities and solve complex challenges with cutting-edge technology.",
         "mission": "Our Mission",
@@ -146,18 +146,18 @@
         "ourServices": "Our Services",
         "noProjects": "No projects found in this category."
     },
-    "careers": {
-        "heroTitle": "Join Our Team",
-        "heroSubtitle": "Help us shape the future of AI and work on cutting-edge projects that make a real impact",
-        "viewPositions": "View Open Positions",
+    "courses": {
+        "heroTitle": "AI EDUCATION COURSES",
+        "heroSubtitle": "AI Education Courses are designed to help learners build practical, real-world skills in artificial intelligence, from foundational concepts to hands-on applications. These courses combine clear explanations with guided practice so students can confidently use AI tools, understand how machine learning works, and apply data-driven methods to solve problems.",
+        "viewCourses": "View All Courses",
         "ourCulture": "Our Culture",
-        "cultureTitle": "Our Culture",
-        "cultureText1": "At AITechVision, we believe in fostering a culture of innovation, collaboration, and continuous learning. We're passionate about pushing the boundaries of what's possible with AI.",
-        "cultureText2": "Join a team where your ideas matter, your growth is supported, and your work makes a meaningful impact on businesses and society.",
-        "whyWork": "Why Work With Us",
-        "openPositions": "Open Positions",
-        "openPositionsDesc": "Join our team and help build the future of AI",
-        "applyNow": "Apply Now"
+        "enrollNow": "Enroll Now",
+        "courseContent": "Course Content:"
+    },
+    "ai_projects": {
+        "heroTitle": "AI Projects",
+        "heroSubtitle": "AI projects turn data into practical solutions that help organizations work smarter, move faster, and make better decisions. By combining machine learning, automation, and advanced analytics, AI can uncover patterns in complex information, predict outcomes, personalize experiences, and streamline operations.",
+        "readMore": "Read More \u2192"
     },
     "contact": {
         "heroTitle": "Get In Touch",
@@ -177,34 +177,21 @@
         "desc": "Leading AI solutions provider, transforming businesses with cutting-edge artificial intelligence and machine learning technologies.",
         "quickLinks": "Quick Links",
         "services": "Services",
-        "resources": "Resources",
+        "resources": "AI Projects",
         "contact": "Contact",
         "privacy": "Privacy Policy",
         "terms": "Terms of Service",
-        "rights": "© {{year}} AITechVision. All rights reserved.",
+        "rights": "© {{year}} AI-VTech. All rights reserved.",
         "blog": "Blog",
         "caseStudies": "Case Studies",
-        "address": "123 AI Street, Tech City",
-        "phone": "+1 (555) 123-4567",
-        "email": "info@aitechvision.com"
-    },
-    "resources": {
-        "heroTitle": "Resources & Insights",
-        "heroSubtitle": "Stay updated with the latest trends, insights, and best practices in AI and machine learning",
-        "subscribe": "Subscribe to Newsletter",
-        "viewAll": "View All Posts",
-        "latestArticles": "Latest Articles",
-        "latestArticlesDesc": "Expert insights and thought leadership from our AI team",
-        "readMore": "Read More →",
-        "stayUpdated": "Stay Updated with AI Insights",
-        "newsletterDesc": "Subscribe to our newsletter and get the latest AI trends, case studies, and expert tips delivered to your inbox.",
-        "emailPlaceholder": "Enter your email address",
-        "subscribeBtn": "Subscribe"
+        "address": "108/3/1 Trương Đăng Quế, Phường Hạnh Thông, TP.HCM",
+        "phone": "(84)386262237",
+        "email": "hoquocbinh2804@gmail.com"
     },
     "data": {
         "services": {
             "1": {
-                "title": "AI/ML Development",
+                "title": "AI/Machine Learning Development",
                 "desc": "Custom artificial intelligence and machine learning solutions tailored to your business needs. We build intelligent systems that learn and adapt.",
                 "features": [
                     "Deep Learning",
@@ -234,7 +221,7 @@
                 ]
             },
             "4": {
-                "title": "Data Analytics & BI",
+                "title": "Data Analytics",
                 "desc": "Transform your data into actionable insights with our advanced analytics and business intelligence solutions powered by AI.",
                 "features": [
                     "Predictive Analytics",
@@ -433,94 +420,96 @@
                 "results": "80% query resolution, 24/7 availability"
             }
         },
-        "careers": {
-            "positions": {
-                "1": {
-                    "title": "Senior Machine Learning Engineer",
-                    "dept": "Engineering",
-                    "loc": "San Francisco, CA",
-                    "type": "Full-time"
-                },
-                "2": {
-                    "title": "AI Research Scientist",
-                    "dept": "Research",
-                    "loc": "New York, NY",
-                    "type": "Full-time"
-                },
-                "3": {
-                    "title": "Data Scientist",
-                    "dept": "Data Science",
-                    "loc": "Remote",
-                    "type": "Full-time"
-                },
-                "4": {
-                    "title": "NLP Engineer",
-                    "dept": "Engineering",
-                    "loc": "Boston, MA",
-                    "type": "Full-time"
-                },
-                "5": {
-                    "title": "Computer Vision Engineer",
-                    "dept": "Engineering",
-                    "loc": "Seattle, WA",
-                    "type": "Full-time"
-                },
-                "6": {
-                    "title": "AI Product Manager",
-                    "dept": "Product",
-                    "loc": "San Francisco, CA",
-                    "type": "Full-time"
-                }
+        "ai_projects": {
+            "categories": {
+                "All": "All",
+                "Healthcare": "Healthcare",
+                "Education": "Education",
+                "Government": "Government"
             },
-            "benefits": {
-                "1": {
-                    "title": "Competitive Salary",
-                    "desc": "Industry-leading compensation packages with equity options"
-                },
-                "2": {
-                    "title": "Great Team",
-                    "desc": "Work with world-class AI researchers and engineers"
-                },
-                "3": {
-                    "title": "Health & Wellness",
-                    "desc": "Comprehensive health insurance and wellness programs"
-                },
-                "4": {
-                    "title": "Flexible Work",
-                    "desc": "Remote-friendly with flexible working hours"
-                }
-            }
-        },
-        "blog": {
             "1": {
-                "title": "The Future of AI in Healthcare",
-                "excerpt": "Exploring how artificial intelligence is revolutionizing medical diagnosis and patient care...",
-                "category": "Healthcare"
+                "title": "Healthcare Chatbot",
+                "desc": "A healthcare chatbot is a software assistant that can converse with users to provide health-related support and information on cardiovascular disease, diabetes, and maternity-related concerns.",
+                "category": "Healthcare",
+                "tags": [
+                    "NLP",
+                    "Healthcare",
+                    "AI Assistant"
+                ],
+                "results": "Reduced support load by 40%, 24/7 availability"
             },
             "2": {
-                "title": "Machine Learning Best Practices",
-                "excerpt": "Essential guidelines for building robust and scalable machine learning systems...",
-                "category": "Technology"
+                "title": "Admissions Counseling Chatbot",
+                "desc": "An Admissions Counseling Chatbot is a virtual assistant that helps prospective students and parents get information and guidance about a university’s admissions process.",
+                "category": "Education",
+                "tags": [
+                    "NLP",
+                    "Education",
+                    "Automation"
+                ],
+                "results": "Assisted 5000+ students, 30% increase in applications"
             },
             "3": {
-                "title": "AI Ethics and Responsible Development",
-                "excerpt": "Understanding the importance of ethical considerations in AI development...",
-                "category": "Ethics"
+                "title": "MCQ Generation System",
+                "desc": "Multiple-choice questions (MCQs) generation system that quickly produces MCQs from PDFs/notes instead of writing every question manually.",
+                "category": "Education",
+                "tags": [
+                    "OCR",
+                    "NLP",
+                    "Assessment"
+                ],
+                "results": "90% time saved in quiz creation"
             },
             "4": {
-                "title": "Natural Language Processing Trends",
-                "excerpt": "Latest advancements in NLP and their practical applications in business...",
-                "category": "NLP"
+                "title": "Government Service Recommender",
+                "desc": "Recommendation system for Smart Cities that helps residents and businesses discover the right public services at the right time.",
+                "category": "Government",
+                "tags": [
+                    "Recommendation",
+                    "Smart City",
+                    "Big Data"
+                ],
+                "results": "Improved citizen engagement by 45%"
+            }
+        },
+        "courses": {
+            "courseContent": "Course Content:",
+            "1": {
+                "title": "Applying AI Tools to Course Development",
+                "desc": "This course helps instructors and course designers use modern AI tools to build higher-quality courses faster, without sacrificing academic rigor or instructional intent. You will learn the fundamentals of prompt engineering so you can communicate clearly with AI systems and consistently get useful, accurate outputs. Then, you will apply those skills to real teaching tasks: generating a course outline, designing lecture materials, and creating or improving instructional videos.",
+                "features": [
+                    "Introduction to prompt engineering and how to write effective prompts",
+                    "Using AI to generate a course outline and lecture materials for a course",
+                    "Using AI to create and edit videos for a course"
+                ]
             },
-            "5": {
-                "title": "Computer Vision in Manufacturing",
-                "excerpt": "How computer vision is transforming quality control and production efficiency...",
-                "category": "Manufacturing"
+            "2": {
+                "title": "Introduction to Data Science in Python",
+                "desc": "This course will introduce the learner to the basics of the python programming environment, including fundamental python programming techniques such as lambdas, reading and manipulating csv files, and the numpy library. The course will introduce data manipulation and cleaning techniques using the popular python pandas data science library and introduce the abstraction of the Series and DataFrame as the central data structures for data analysis, along with tutorials on how to use functions such as groupby, merge, and pivot tables effectively. By the end of this course, students will be able to take tabular data, clean it, manipulate it, and run basic inferential statistical analyses.",
+                "features": [
+                    "Fundamentals of Data Manipulation with Python",
+                    "Basic Data Processing with Pandas",
+                    "Advanced Data Processing with Pandas",
+                    "Answering Questions with Messy Data"
+                ]
             },
-            "6": {
-                "title": "AI-Powered Customer Service",
-                "excerpt": "Building intelligent chatbots that enhance customer experience and satisfaction...",
-                "category": "Customer Service"
+            "3": {
+                "title": "Applied Machine Learning in Python",
+                "desc": "This course will introduce the learner to applied machine learning, focusing more on the techniques and methods than on the statistics behind these methods. The course will start with a discussion of how machine learning is different than descriptive statistics, and introduce the scikit learn toolkit through a tutorial. The issue of dimensionality of data will be discussed, and the task of clustering data, as well as evaluating those clusters, will be tackled. Supervised approaches for creating predictive models will be described, and learners will be able to apply the scikit learn predictive modelling methods while understanding process issues related to data generalizability (e.g. cross validation, overfitting). The course will end with a look at more advanced techniques, such as building ensembles, and practical limitations of predictive models. By the end of this course, students will be able to identify the difference between a supervised (classification) and unsupervised (clustering) technique, identify which technique they need to apply for a particular dataset and need, engineer features to meet that need, and write python code to carry out an analysis.",
+                "features": [
+                    "Fundamentals of Machine Learning",
+                    "Supervised Machine Learning",
+                    "Evaluation"
+                ]
+            },
+            "4": {
+                "title": "Applied Plotting, Charting & Data Representation in Python",
+                "desc": "This course will introduce the learner to information visualization basics, with a focus on reporting and charting using the matplotlib library. The course will start with a design and information literacy perspective, touching on what makes a good and bad visualization, and what statistical measures translate into in terms of visualizations. The second week will focus on the technology used to make visualizations in python, matplotlib, and introduce users to best practices when creating basic charts and how to realize design decisions in the framework. The third week will be a tutorial of functionality available in matplotlib, and demonstrate a variety of basic statistical charts helping learners to identify when a particular method is good for a particular problem. The course will end with a discussion of other forms of structuring and visualizing data.",
+                "features": [
+                    "Basic Charting",
+                    "Charting fundamentals",
+                    "Applied Visualizations"
+                ]
             }
         }
     }

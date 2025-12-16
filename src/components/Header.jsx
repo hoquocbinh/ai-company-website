@@ -28,11 +28,8 @@ const Header = () => {
     const navLinks = [
         { path: '/', label: t('header.home') },
         { path: '/about', label: t('header.about') },
-        { path: '/services', label: t('header.services') },
-        { path: '/solutions', label: t('header.solutions') },
-        { path: '/portfolio', label: t('header.portfolio') },
-        { path: '/resources', label: t('header.resources') },
-        { path: '/careers', label: t('header.careers') },
+        { path: '/ai-projects', label: t('header.resources') },
+        { path: '/courses', label: t('header.courses') },
         { path: '/contact', label: t('header.contact') }
     ];
 
@@ -42,7 +39,7 @@ const Header = () => {
                 <Container>
                     <Navbar.Brand as={Link} to="/" className="brand">
                         <span className="brand-icon">AI</span>
-                        <span className="brand-text">TechVision</span>
+                        <span className="brand-text">VTech</span>
                     </Navbar.Brand>
 
                     <button

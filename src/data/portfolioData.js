@@ -2,7 +2,7 @@ export const portfolioData = [
     {
         id: 1,
         title: "Healthcare Diagnosis AI",
-        category: "Healthcare",
+        category: "Healthcare Chatbot",
         description: "AI-powered diagnostic system that assists doctors in identifying diseases with 95% accuracy.",
         image: "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=600&h=400&fit=crop",
         technologies: ["TensorFlow", "Python", "Computer Vision"],

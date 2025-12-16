@@ -3,6 +3,7 @@ import { useTranslation } from 'react-i18next';
 import Hero from '../components/Hero';
 import ContactForm from '../components/ContactForm';
 import { FaMapMarkerAlt, FaPhone, FaEnvelope, FaClock } from 'react-icons/fa';
+import config from '../config';
 import './Contact.css';
 
 const Contact = () => {
@@ -38,7 +39,7 @@ const Contact = () => {
                                         </div>
                                         <div className="contact-item-content">
                                             <h5>{t('contact.officeLocation')}</h5>
-                                            <p>123 AI Street, Tech City, TC 12345</p>
+                                            <p>{config.contact.address}</p>
                                         </div>
                                     </div>
 
@@ -48,7 +49,7 @@ const Contact = () => {
                                         </div>
                                         <div className="contact-item-content">
                                             <h5>{t('contact.phoneNumber')}</h5>
-                                            <p>+1 (555) 123-4567</p>
+                                            <p>{config.contact.phone}</p>
                                         </div>
                                     </div>
 
@@ -58,7 +59,7 @@ const Contact = () => {
                                         </div>
                                         <div className="contact-item-content">
                                             <h5>{t('contact.emailAddress')}</h5>
-                                            <p>info@aitechvision.com</p>
+                                            <p>{config.contact.email}</p>
                                         </div>
                                     </div>
 
