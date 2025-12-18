@@ -6,7 +6,7 @@
         "solutions": "Solutions",
         "portfolio": "Portfolio",
         "resources": "AI Projects",
-        "courses": "Courses",
+        "courses": "AI Courses",
         "contact": "Contact",
         "getStarted": "Get Started"
     },
@@ -88,9 +88,9 @@
         "joinTeam": "Join Our Team",
         "ourWork": "Our Work",
         "ourStory": "Our Story",
-        "storyText1": "Founded in 2014, AI-VTech emerged from a simple belief: artificial intelligence should be accessible, practical, and transformative for businesses of all sizes.",
+        "storyText1": "AI-VTech emerged from a simple belief: artificial intelligence should be accessible, practical, and transformative for businesses of all sizes.",
         "storyText2": "What started as a small team of passionate AI researchers has grown into a leading AI solutions provider, serving clients across healthcare, finance, retail, and manufacturing industries worldwide.",
-        "storyText3": "Today, we're proud to have delivered over 150 successful AI projects, helping businesses unlock new opportunities and solve complex challenges with cutting-edge technology.",
+        "storyText3": "Today, we're proud to have delivered the successful AI projects, helping businesses unlock new opportunities and solve complex challenges with cutting-edge technology.",
         "mission": "Our Mission",
         "missionDesc": "To empower businesses with intelligent AI solutions that drive innovation, efficiency, and sustainable growth in an increasingly digital world.",
         "vision": "Our Vision",
@@ -184,9 +184,9 @@
         "rights": "© {{year}} AI-VTech. All rights reserved.",
         "blog": "Blog",
         "caseStudies": "Case Studies",
-        "address": "108/3/1 Trương Đăng Quế, Phường Hạnh Thông, TP.HCM",
-        "phone": "(84)386262237",
-        "email": "hoquocbinh2804@gmail.com"
+        "address": "VNU - HCM's Information Technology Park, Quarter 33, Linh Xuan Ward, Ho Chi Minh City",
+        "phone": "(+84)917938246",
+        "email": "vanholong@gmail.com"
     },
     "data": {
         "services": {

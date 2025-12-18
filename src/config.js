@@ -1,9 +1,9 @@
 const config = {
     // Company Contact Information
     contact: {
-        address: "108/3/1 Trương Đăng Quế, Phường Hạnh Thông, TP.HCM",
-        phone: "(84)386262237",
-        email: "hoquocbinh2804@gmail.com",
+        address: "VNU - HCM's Information Technology Park, Quarter 33, Linh Xuan Ward, Ho Chi Minh City",
+        phone: "(+84)917938246",
+        email: "vanholong@gmail.com",
     },
 
     // Google Form Configuration for Contact Page

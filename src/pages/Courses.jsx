@@ -63,8 +63,9 @@ const Courses = () => {
                     return (
                         <section
                             key={course.id}
+                            id={`course-${course.id}`}
                             className="course-section section-padding py-5"
-                            style={{ backgroundColor: bgColor }}
+                            style={{ backgroundColor: bgColor, scrollMarginTop: '100px' }}
                         >
                             <Container>
                                 <Row className="align-items-start">

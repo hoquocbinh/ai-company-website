@@ -6,7 +6,7 @@
         "solutions": "Giải pháp",
         "portfolio": "Dự án",
         "resources": "Dự án AI",
-        "courses": "Khóa học",
+        "courses": "Khóa học AI",
         "careers": "Tuyển dụng",
         "contact": "Liên hệ",
         "getStarted": "Bắt đầu ngay"
@@ -89,9 +89,9 @@
         "joinTeam": "Gia nhập đội ngũ",
         "ourWork": "Dự án của chúng tôi",
         "ourStory": "Câu chuyện của chúng tôi",
-        "storyText1": "Được thành lập vào năm 2014, AI-VTech ra đời từ một niềm tin đơn giản: trí tuệ nhân tạo nên dễ tiếp cận, thiết thực và mang tính chuyển đổi cho mọi doanh nghiệp.",
+        "storyText1": "AI-VTech ra đời từ một niềm tin đơn giản: trí tuệ nhân tạo nên dễ tiếp cận, thiết thực và mang tính chuyển đổi cho mọi doanh nghiệp.",
         "storyText2": "Khởi đầu từ một nhóm nhỏ các nhà nghiên cứu AI đầy nhiệt huyết, chúng tôi đã phát triển thành nhà cung cấp giải pháp AI hàng đầu, phục vụ khách hàng trong các lĩnh vực y tế, tài chính, bán lẻ và sản xuất trên toàn cầu.",
-        "storyText3": "Ngày nay, chúng tôi tự hào đã thực hiện hơn 150 dự án AI thành công, giúp các doanh nghiệp mở ra cơ hội mới và giải quyết các thách thức phức tạp bằng công nghệ tiên tiến.",
+        "storyText3": "Ngày nay, chúng tôi tự hào đã thực hiện các dự án AI thành công, giúp các doanh nghiệp mở ra cơ hội mới và giải quyết các thách thức phức tạp bằng công nghệ tiên tiến.",
         "mission": "Sứ mệnh",
         "missionDesc": "Trao quyền cho doanh nghiệp bằng các giải pháp AI thông minh giúp thúc đẩy đổi mới, hiệu quả và tăng trưởng bền vững trong thế giới số.",
         "vision": "Tầm nhìn",
@@ -198,9 +198,9 @@
         "rights": "© {{year}} AI-VTech. Đã đăng ký bản quyền.",
         "blog": "Blog",
         "caseStudies": "Nghiên cứu điển hình",
-        "address": "108/3/1 Trương Đăng Quế, Phường Hạnh Thông, TP.HCM",
-        "phone": "(84)386262237",
-        "email": "hoquocbinh2804@gmail.com"
+        "address": "Khu Công nghệ Thông tin ĐHQG-HCM, Khu phố 33, Phường Linh Xuân, TP.HCM",
+        "phone": "(+84)917938246",
+        "email": "vanholong@gmail.com"
     },
     "resources": {
         "heroTitle": "Tài nguyên & Thông tin chi tiết",

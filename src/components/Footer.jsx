@@ -12,15 +12,15 @@ const Footer = () => {
     const quickLinks = [
         { path: '/', label: t('header.home') },
         { path: '/about', label: t('header.about') },
-        { path: '/services', label: t('header.services') },
-        { path: '/portfolio', label: t('header.portfolio') }
+        { path: '/ai-projects', label: t('header.resources') },
+        { path: '/contact', label: t('header.contact') }
     ];
 
-    const services = [
-        { path: '/services', label: t('data.services.1.title') },
-        { path: '/services', label: t('data.services.2.title') },
-        { path: '/services', label: t('data.services.3.title') },
-        { path: '/services', label: t('data.services.4.title') }
+    const courses = [
+        { path: '/courses#course-1', label: t('data.courses.1.title') },
+        { path: '/courses#course-2', label: t('data.courses.2.title') },
+        { path: '/courses#course-3', label: t('data.courses.3.title') },
+        { path: '/courses#course-4', label: t('data.courses.4.title') }
     ];
 
     const resources = [
@@ -34,7 +34,7 @@ const Footer = () => {
         <footer className="footer">
             <Container>
                 <Row className="footer-main">
-                    <Col lg={4} md={6} className="mb-4 mb-lg-0">
+                    <Col lg={5} md={6} className="mb-4 mb-lg-0">
                         <div className="footer-brand">
                             <div className="brand">
                                 <span className="brand-icon">AI</span>
@@ -44,7 +44,7 @@ const Footer = () => {
                                 {t('footer.desc')}
                             </p>
                             <div className="social-links">
-                                <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
+                                {/* <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
                                     <FaFacebookF />
                                 </a>
                                 <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" aria-label="Twitter">
@@ -55,12 +55,12 @@ const Footer = () => {
                                 </a>
                                 <a href="https://github.com" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
                                     <FaGithub />
-                                </a>
+                                </a> */}
                             </div>
                         </div>
                     </Col>
 
-                    <Col lg={2} md={6} className="mb-4 mb-lg-0">
+                    <Col lg={3} md={6} className="mb-4 mb-lg-0">
                         <h5 className="footer-title">{t('footer.quickLinks')}</h5>
                         <ul className="footer-links">
                             {quickLinks.map((link, index) => (
@@ -71,42 +71,24 @@ const Footer = () => {
                         </ul>
                     </Col>
 
-                    <Col lg={2} md={6} className="mb-4 mb-lg-0">
-                        <h5 className="footer-title">{t('footer.services')}</h5>
-                        <ul className="footer-links">
-                            {services.map((link, index) => (
-                                <li key={index}>
-                                    <Link to={link.path}>{link.label}</Link>
-                                </li>
-                            ))}
-                        </ul>
-                    </Col>
-
-                    <Col lg={2} md={6} className="mb-4 mb-lg-0">
-                        <h5 className="footer-title">{t('footer.resources')}</h5>
-                        <ul className="footer-links">
-                            {resources.map((link, index) => (
-                                <li key={index}>
-                                    <Link to={link.path}>{link.label}</Link>
-                                </li>
-                            ))}
-                        </ul>
-                    </Col>
-
-                    <Col lg={2} md={12}>
+                    <Col lg={4} md={12}>
                         <h5 className="footer-title">{t('footer.contact')}</h5>
                         <ul className="footer-contact">
                             <li>
                                 <FaMapMarkerAlt />
-                                <span>{config.contact.address}</span>
+                                <span>{t('footer.address')}</span>
                             </li>
                             <li>
                                 <FaPhone />
-                                <span>{config.contact.phone}</span>
+                                <a href={`tel:${t('footer.phone').replace(/\s+/g, '')}`} style={{ color: 'inherit', textDecoration: 'none' }}>
+                                    {t('footer.phone')}
+                                </a>
                             </li>
                             <li>
                                 <FaEnvelope />
-                                <span>{config.contact.email}</span>
+                                <a href={`mailto:${t('footer.email')}`} style={{ color: 'inherit', textDecoration: 'none' }}>
+                                    {t('footer.email')}
+                                </a>
                             </li>
                         </ul>
                     </Col>

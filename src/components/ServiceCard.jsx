@@ -33,9 +33,9 @@ const ServiceCard = ({ service }) => {
                     ))}
                 </ul>
             )}
-            <Link to={`/services#${service.id}`} className="service-link">
+            {/* <Link to={`/services#${service.id}`} className="service-link">
                 Learn More →
-            </Link>
+            </Link> */}
         </div>
     );
 };

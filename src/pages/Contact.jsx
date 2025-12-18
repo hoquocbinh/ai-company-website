@@ -39,7 +39,7 @@ const Contact = () => {
                                         </div>
                                         <div className="contact-item-content">
                                             <h5>{t('contact.officeLocation')}</h5>
-                                            <p>{config.contact.address}</p>
+                                            <p>{t('footer.address')}</p>
                                         </div>
                                     </div>
 
@@ -49,7 +49,11 @@ const Contact = () => {
                                         </div>
                                         <div className="contact-item-content">
                                             <h5>{t('contact.phoneNumber')}</h5>
-                                            <p>{config.contact.phone}</p>
+                                            <p>
+                                                <a href={`tel:${t('footer.phone').replace(/\s+/g, '')}`} style={{ color: 'inherit', textDecoration: 'none' }}>
+                                                    {t('footer.phone')}
+                                                </a>
+                                            </p>
                                         </div>
                                     </div>
 
@@ -59,7 +63,11 @@ const Contact = () => {
                                         </div>
                                         <div className="contact-item-content">
                                             <h5>{t('contact.emailAddress')}</h5>
-                                            <p>{config.contact.email}</p>
+                                            <p>
+                                                <a href={`mailto:${t('footer.email')}`} style={{ color: 'inherit', textDecoration: 'none' }}>
+                                                    {t('footer.email')}
+                                                </a>
+                                            </p>
                                         </div>
                                     </div>
 
@@ -87,16 +95,7 @@ const Contact = () => {
             </section>
 
             {/* Map Section */}
-            <section className="map-section" id="locations">
-                <Container>
-                    <div className="map-placeholder" data-aos="fade-up">
-                        <div className="map-content">
-                            <h3>{t('contact.globalOffices')}</h3>
-                            <p>{t('contact.globalOfficesDesc')}</p>
-                        </div>
-                    </div>
-                </Container>
-            </section>
+
         </div>
     );
 };

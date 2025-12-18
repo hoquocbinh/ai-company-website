@@ -62,9 +62,7 @@ const Header = () => {
                                     {link.label}
                                 </Nav.Link>
                             ))}
-                            <Link to="/contact" className="btn btn-primary ms-lg-3 mt-3 mt-lg-0">
-                                {t('header.getStarted')}
-                            </Link>
+
                             <LanguageSwitcher />
                         </Nav>
                     </Navbar.Collapse>

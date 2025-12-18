@@ -25,7 +25,8 @@ const Hero = ({
                             <p className="hero-subtitle" data-aos="fade-up" data-aos-duration="800" data-aos-delay="200">
                                 {subtitle}
                             </p>
-                            <div className="hero-buttons" data-aos="fade-up" data-aos-duration="800" data-aos-delay="400">
+                            {/* Buttons removed as per feedback */}
+                            {/* <div className="hero-buttons" data-aos="fade-up" data-aos-duration="800" data-aos-delay="400">
                                 <Link to={primaryButtonLink} className="btn btn-primary btn-lg">
                                     {primaryButtonText} <FaArrowRight className="ms-2" />
                                 </Link>
@@ -34,7 +35,7 @@ const Hero = ({
                                         <FaPlay className="me-2" /> {secondaryButtonText}
                                     </Link>
                                 )}
-                            </div>
+                            </div> */}
                         </div>
                     </div>
                 </div>

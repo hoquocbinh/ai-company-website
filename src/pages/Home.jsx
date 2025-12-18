@@ -1,5 +1,6 @@
 import { Container, Row, Col } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
+import aboutImage from '../assets/images/home/home-about.jpg';
 
 import { useTranslation, Trans } from 'react-i18next';
 import Hero from '../components/Hero';
@@ -31,7 +32,7 @@ const Home = () => {
                         <Col lg={6} className="mb-4 mb-lg-0">
                             <div className="about-image" data-aos="fade-right" data-aos-duration="800">
                                 <img
-                                    src="https://images.unsplash.com/photo-1551434678-e076c223a692?w=800&h=600&fit=crop"
+                                    src={aboutImage}
                                     alt="AI Technology"
                                     className="img-fluid rounded shadow-custom"
                                 />
@@ -80,11 +81,7 @@ const Home = () => {
                             </Col>
                         ))}
                     </Row>
-                    <div className="text-center mt-5" data-aos="fade-up">
-                        <Link to="/services" className="btn btn-outline-primary btn-lg">
-                            {t('home.services.btn')}
-                        </Link>
-                    </div>
+
                 </Container>
             </section>
 
