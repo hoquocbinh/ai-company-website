@@ -356,27 +356,15 @@
         "team": {
             "1": {
                 "pos": "Chief AI Officer",
-                "bio": "15+ years in AI research and development. PhD in Machine Learning from MIT."
+                "bio": "16+ years in AI research and development. PhD in Computer Science in Denmark."
             },
             "2": {
-                "pos": "Lead ML Engineer",
-                "bio": "Expert in deep learning and neural networks. Former Google AI researcher."
+                "pos": "Head of AI Department",
+                "bio": "Expert in Deep Learning and Machine Learning. Professor at Loyola Maryland, USA."
             },
             "3": {
-                "pos": "NLP Specialist",
-                "bio": "Specializes in natural language processing and conversational AI systems."
-            },
-            "4": {
-                "pos": "Computer Vision Lead",
-                "bio": "Pioneer in computer vision and image recognition technologies."
-            },
-            "5": {
-                "pos": "Data Science Director",
-                "bio": "Transforms complex data into actionable business insights using AI."
-            },
-            "6": {
-                "pos": "AI Solutions Architect",
-                "bio": "Designs scalable AI architectures for enterprise-level applications."
+                "pos": "Senior AI Engineer",
+                "bio": "Design scalable AI architectures for enterprise-level applications, web development."
             }
         },
         "portfolio": {

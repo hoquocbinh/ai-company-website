@@ -383,27 +383,15 @@
         "team": {
             "1": {
                 "pos": "Giám đốc AI",
-                "bio": "Hơn 15 năm nghiên cứu và phát triển AI. Tiến sĩ về Máy học từ MIT."
+                "bio": "Hơn 16 năm kinh nghiệm nghiên cứu và phát triển AI. Tiến sĩ Khoa học Máy tính tại Đan Mạch."
             },
             "2": {
-                "pos": "Kỹ sư trưởng ML",
-                "bio": "Chuyên gia về học sâu và mạng nơ-ron. Cựu nghiên cứu viên AI của Google."
+                "pos": "Trưởng phòng AI",
+                "bio": "Chuyên gia về Học sâu và Máy học. Giáo sư tại Loyola Maryland, Hoa Kỳ."
             },
             "3": {
-                "pos": "Chuyên gia NLP",
-                "bio": "Chuyên về xử lý ngôn ngữ tự nhiên và hệ thống AI đàm thoại."
-            },
-            "4": {
-                "pos": "Trưởng nhóm Thị giác máy tính",
-                "bio": "Người tiên phong trong công nghệ thị giác máy tính và nhận dạng hình ảnh."
-            },
-            "5": {
-                "pos": "Giám đốc Khoa học Dữ liệu",
-                "bio": "Chuyển đổi dữ liệu phức tạp thành thông tin chi tiết kinh doanh bằng cách sử dụng AI."
-            },
-            "6": {
                 "pos": "Kiến trúc sư Giải pháp AI",
-                "bio": "Thiết kế kiến trúc AI có thể mở rộng cho các ứng dụng cấp doanh nghiệp."
+                "bio": "Thiết kế kiến trúc AI có thể mở rộng cho các ứng dụng cấp doanh nghiệp, phát triển web."
             }
         },
         "portfolio": {

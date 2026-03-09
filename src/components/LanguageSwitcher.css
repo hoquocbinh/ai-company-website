@@ -5,6 +5,9 @@
     padding-left: 2rem;
     border-left: 1px solid var(--border-gray);
     height: 24px;
+    caret-color: transparent;
+    user-select: none;
+    -webkit-user-select: none;
 }
 
 .lang-btn {
@@ -18,6 +21,13 @@
     font-size: 0.85rem;
     text-transform: uppercase;
     transition: all 0.3s ease;
+    caret-color: transparent;
+    user-select: none;
+    -webkit-user-select: none;
+}
+
+.lang-btn:focus {
+    outline: none;
 }
 
 .lang-btn:hover,
@@ -26,9 +36,14 @@
 }
 
 .divider {
-    color: var(--border-gray);
-    margin: 0 4px;
-    font-size: 0.8rem;
+    width: 1px;
+    height: 14px;
+    background-color: var(--medium-gray);
+    margin: 0 8px;
+    display: inline-block;
+    caret-color: transparent;
+    user-select: none;
+    -webkit-user-select: none;
 }
 
 @media (max-width: 991px) {

@@ -106,3 +106,8 @@
         padding: 0 0 3rem;
     }
 }
+
+/* Center Swiper Slides */
+.team-swiper .swiper-wrapper {
+    justify-content: center;
+}

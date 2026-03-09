@@ -35,7 +35,7 @@ const Header = () => {
 
     return (
         <header className={`header ${scrolled ? 'scrolled' : ''}`}>
-            <Navbar expand="lg" className="py-3">
+            <Navbar expand="lg" className="py-3 w-100">
                 <Container>
                     <Navbar.Brand as={Link} to="/" className="brand">
                         <span className="brand-icon">AI</span>
@@ -50,8 +50,8 @@ const Header = () => {
                         {mobileMenuOpen ? <FaTimes /> : <FaBars />}
                     </button>
 
-                    <Navbar.Collapse id="navbar-nav" className={mobileMenuOpen ? 'show' : ''}>
-                        <Nav className="ms-auto align-items-lg-center">
+                    <Navbar.Collapse id="navbar-nav" className={`justify-content-end ${mobileMenuOpen ? 'show' : ''}`}>
+                        <Nav className="align-items-lg-center">
                             {navLinks.map((link) => (
                                 <Nav.Link
                                     key={link.path}
