@@ -22,7 +22,7 @@
 .brand {
     display: flex;
     align-items: center;
-    gap: 0.75rem;
+    gap: 0;
     font-size: 1.5rem;
     font-weight: 800;
     color: var(--dark-gray);
@@ -37,24 +37,30 @@
     color: var(--primary-red);
 }
 
+
+
 .brand-icon {
-    background: var(--gradient-red);
-    color: var(--white);
-    width: 40px;
-    height: 40px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border-radius: var(--radius-md);
-    font-size: 1.25rem;
+    font-family: 'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Permanent Marker', sans-serif;
+    color: var(--dark-gray);
+    font-size: 2.2rem;
     font-weight: 900;
-    box-shadow: var(--shadow-md);
+    margin: 0;
+    margin-right: -0.3rem;
+    line-height: 1;
 }
 
 .brand-text {
-    font-family: 'Outfit', sans-serif;
-    font-size: 1.25rem;
-    letter-spacing: -0.5px;
+    font-family: 'Inter', 'Arial', sans-serif;
+    font-size: 2.2rem;
+    font-weight: 900;
+    color: var(--primary-red);
+    letter-spacing: -1px;
+    margin-left: 0;
+    text-transform: uppercase;
+    line-height: 1;
+    vertical-align: middle;
+    display: inline-block;
+    transform: translateY(3px);
 }
 
 .mobile-toggle {

@@ -37,8 +37,8 @@ const Footer = () => {
                     <Col lg={5} md={6} className="mb-4 mb-lg-0">
                         <div className="footer-brand">
                             <div className="brand">
-                                <span className="brand-icon">AI</span>
-                                <span className="brand-text">VTech</span>
+                                <span className="brand-icon">f</span>
+                                <span className="brand-text">AI</span>
                             </div>
                             <p className="footer-description">
                                 {t('footer.desc')}

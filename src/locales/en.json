@@ -47,7 +47,7 @@
             "btn": "View All Services"
         },
         "whyChoose": {
-            "title": "Why Choose <1>AI-VTech</1>",
+            "title": "Why Choose <1>fAI</1>",
             "subtitle": "We deliver excellence through innovation, expertise, and dedication",
             "features": {
                 "1": {
@@ -83,12 +83,12 @@
         }
     },
     "about": {
-        "heroTitle": "About AI-VTech",
+        "heroTitle": "About fAI",
         "heroSubtitle": "Pioneering AI solutions that transform businesses and shape the future of technology",
         "joinTeam": "Join Our Team",
         "ourWork": "Our Work",
         "ourStory": "Our Story",
-        "storyText1": "AI-VTech emerged from a simple belief: artificial intelligence should be accessible, practical, and transformative for businesses of all sizes.",
+        "storyText1": "fAI emerged from a simple belief: artificial intelligence should be accessible, practical, and transformative for businesses of all sizes.",
         "storyText2": "What started as a small team of passionate AI researchers has grown into a leading AI solutions provider, serving clients across healthcare, finance, retail, and manufacturing industries worldwide.",
         "storyText3": "Today, we're proud to have delivered the successful AI projects, helping businesses unlock new opportunities and solve complex challenges with cutting-edge technology.",
         "mission": "Our Mission",
@@ -181,7 +181,7 @@
         "contact": "Contact",
         "privacy": "Privacy Policy",
         "terms": "Terms of Service",
-        "rights": "© {{year}} AI-VTech. All rights reserved.",
+        "rights": "© {{year}} fAI. All rights reserved.",
         "blog": "Blog",
         "caseStudies": "Case Studies",
         "address": "VNU - HCM's Information Technology Park, Quarter 33, Linh Xuan Ward, Ho Chi Minh City",

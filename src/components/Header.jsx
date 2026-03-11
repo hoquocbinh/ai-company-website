@@ -38,8 +38,8 @@ const Header = () => {
             <Navbar expand="lg" className="py-3 w-100">
                 <Container>
                     <Navbar.Brand as={Link} to="/" className="brand">
-                        <span className="brand-icon">AI</span>
-                        <span className="brand-text">VTech</span>
+                        <span className="brand-icon">f</span>
+                        <span className="brand-text">AI</span>
                     </Navbar.Brand>
 
                     <button

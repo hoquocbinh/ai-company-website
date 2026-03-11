@@ -48,7 +48,7 @@
             "btn": "Xem tất cả dịch vụ"
         },
         "whyChoose": {
-            "title": "Tại sao chọn <1>AI-VTech</1>",
+            "title": "Tại sao chọn <1>fAI</1>",
             "subtitle": "Chúng tôi mang đến sự xuất sắc thông qua sự đổi mới, chuyên môn và sự tận tâm",
             "features": {
                 "1": {
@@ -84,12 +84,12 @@
         }
     },
     "about": {
-        "heroTitle": "Về AI-VTech",
+        "heroTitle": "Về fAI",
         "heroSubtitle": "Tiên phong các giải pháp AI giúp chuyển đổi doanh nghiệp và định hình tương lai công nghệ",
         "joinTeam": "Gia nhập đội ngũ",
         "ourWork": "Dự án của chúng tôi",
         "ourStory": "Câu chuyện của chúng tôi",
-        "storyText1": "AI-VTech ra đời từ một niềm tin đơn giản: trí tuệ nhân tạo nên dễ tiếp cận, thiết thực và mang tính chuyển đổi cho mọi doanh nghiệp.",
+        "storyText1": "fAI ra đời từ một niềm tin đơn giản: trí tuệ nhân tạo nên dễ tiếp cận, thiết thực và mang tính chuyển đổi cho mọi doanh nghiệp.",
         "storyText2": "Khởi đầu từ một nhóm nhỏ các nhà nghiên cứu AI đầy nhiệt huyết, chúng tôi đã phát triển thành nhà cung cấp giải pháp AI hàng đầu, phục vụ khách hàng trong các lĩnh vực y tế, tài chính, bán lẻ và sản xuất trên toàn cầu.",
         "storyText3": "Ngày nay, chúng tôi tự hào đã thực hiện các dự án AI thành công, giúp các doanh nghiệp mở ra cơ hội mới và giải quyết các thách thức phức tạp bằng công nghệ tiên tiến.",
         "mission": "Sứ mệnh",
@@ -166,7 +166,7 @@
         "viewPositions": "Xem vị trí tuyển dụng",
         "ourCulture": "Văn hóa của chúng tôi",
         "cultureTitle": "Văn hóa doanh nghiệp",
-        "cultureText1": "Tại AI-VTech, chúng tôi tin tưởng vào việc nuôi dưỡng văn hóa đổi mới, hợp tác và học hỏi không ngừng. Chúng tôi đam mê đẩy lùi giới hạn của những gì có thể với AI.",
+        "cultureText1": "Tại fAI, chúng tôi tin tưởng vào việc nuôi dưỡng văn hóa đổi mới, hợp tác và học hỏi không ngừng. Chúng tôi đam mê đẩy lùi giới hạn của những gì có thể với AI.",
         "cultureText2": "Hãy gia nhập đội ngũ nơi ý tưởng của bạn được coi trọng, sự phát triển của bạn được hỗ trợ và công việc của bạn tạo ra tác động ý nghĩa đến doanh nghiệp và xã hội.",
         "whyWork": "Tại sao làm việc với chúng tôi",
         "openPositions": "Vị trí đang tuyển",
@@ -195,7 +195,7 @@
         "contact": "Liên hệ",
         "privacy": "Chính sách bảo mật",
         "terms": "Điều khoản dịch vụ",
-        "rights": "© {{year}} AI-VTech. Đã đăng ký bản quyền.",
+        "rights": "© {{year}} fAI. Đã đăng ký bản quyền.",
         "blog": "Blog",
         "caseStudies": "Nghiên cứu điển hình",
         "address": "Khu Công nghệ Thông tin ĐHQG-HCM, Khu phố 33, Phường Linh Xuân, TP.HCM",

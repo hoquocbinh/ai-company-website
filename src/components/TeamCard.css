@@ -24,10 +24,11 @@
     object-fit: cover;
     object-position: top center;
     transition: var(--transition-slow);
+    transform: scale(1.1);
 }
 
 .team-card:hover .team-image {
-    transform: scale(1.1);
+    transform: scale(1);
 }
 
 .team-overlay {
@@ -36,11 +37,12 @@
     left: 0;
     right: 0;
     bottom: 0;
-    background: linear-gradient(135deg, rgba(220, 38, 38, 0.9) 0%, rgba(153, 27, 27, 0.9) 100%);
+    background: rgba(15, 23, 42, 0.7); /* sleek dark slate overlay */
     display: flex;
     align-items: center;
     justify-content: center;
     opacity: 0;
+    /* backdrop-filter: blur(2px); */
     transition: var(--transition-base);
 }
 
@@ -71,7 +73,7 @@
 
 .team-card:hover .team-social a {
     transform: translateY(0);
-    opacity: 1;
+    /* opacity: 1; */
 }
 
 .team-social a:nth-child(1) {
