@@ -116,7 +116,7 @@ const About = () => {
                         spaceBetween={30}
                         slidesPerView={1}
                         pagination={{ clickable: true }}
-                        autoplay={{ delay: 3000, disableOnInteraction: false }}
+                        autoplay={{ delay: 4000, disableOnInteraction: false }}
                         breakpoints={{
                             640: {
                                 slidesPerView: 2,

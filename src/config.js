@@ -2,7 +2,7 @@ const config = {
     // Company Contact Information
     contact: {
         address: "VNU - HCM's Information Technology Park, Quarter 33, Linh Xuan Ward, Ho Chi Minh City",
-        phone: "(+84)917938246",
+        phone: "(+84) 389584524",
         email: "vanholong@gmail.com",
     },
 
